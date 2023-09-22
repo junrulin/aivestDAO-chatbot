@@ -18,7 +18,7 @@ class ChatHistory:
         st.session_state["user"] = [self.default_greeting()]
 
     def initialize_assistant_history(self, uploaded_file):
-        st.session_state["assistant"] = [self.default_prompt(uploaded_file.name)]
+        st.session_state["assistant"] = [self.default_prompt("胡子观币")]
 
     def initialize(self, uploaded_file):
         if "assistant" not in st.session_state:

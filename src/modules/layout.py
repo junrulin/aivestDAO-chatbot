@@ -8,7 +8,7 @@ class Layout:
         """
         st.markdown(
             f"""
-            <h1 style='text-align: center;'> Ask aivestDAO about your {types_files} files ! 😁</h1>
+            <h1 style='text-align: center;'> Ask aivestDAO about crypto market info! 😁</h1>
             """,
             unsafe_allow_html=True,
         )
