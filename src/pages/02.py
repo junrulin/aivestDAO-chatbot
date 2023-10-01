@@ -43,7 +43,7 @@ if not user_api_key:
 else:
     os.environ["OPENAI_API_KEY"] = user_api_key
 
-    uploaded_file = utils.handle_upload(["pdf", "txt", "csv"])
+    # uploaded_file = utils.handle_upload(["pdf", "txt", "csv"])
 
     # Configure the sidebar
     sidebar.show_options()
@@ -52,9 +52,12 @@ else:
     # Initialize chat history
     history = ChatHistory()
     try:
-        chatbot = utils.setup_chatbot(
-                    uploaded_file, st.session_state["model"], st.session_state["temperature"]
-                )
+        with open('./static/coinbureau.txt','rb') as f:
+            uploaded_file = f
+            chatbot = utils.setup_chatbot(
+                        # uploaded_file, st.session_state["model"], st.session_state["temperature"]
+                        f, st.session_state["model"], st.session_state["temperature"]
+                    )
         st.session_state["chatbot"] = chatbot
         
         st.markdown(

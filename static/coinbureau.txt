@@ -1,0 +1,1302 @@
+When scrolling through social media sites like Youtube and Tiktok looking for crypto content you’ve probably stumbled across videos where people claim to be making thousands of dollars a day trading cryptocurrencies. This might sound very good and so your interest in trading has begun to grow. But what is trading?
+
+You might think that trading only includes the most common type, which is day trading. However, it includes a lot more. Trading includes a large number of things and depending on who you ask, can include trading by the second all the way to investing for life. That’s why there are numerous different strategies on how frequently, and based on which metrics, you buy and sell assets. Although having a strategy when investing in any form is necessary I would argue that when dealing with cryptocurrencies it’s even more vital to have one. This is because cryptocurrencies are known for their extreme volatility and for many people this can cause tremendous amounts of stress unless you're completely aware of how you’re going to act in different market conditions and manage your risk.
+
+Risk Management
+Before getting into these various strategies it’s good to touch down on a vital piece of every strategy, risk management. Without having the proper risk/reward ratio there’s no point in trading. You might initially make good gains, but inevitably you'll end up blowing your account. This is especially important for those who trade shorter time frames since you’ll conduct a lot of trades and almost certainly not win all of them. However, with the right risk/reward ratio, it’ll be enough to win only a share of your trades.
+
+Let’s say you make 100 trades in a certain period. For those trades, you always bet the same amount and always have the same risk-reward setup. In this example, we'll say that every time you win you’ll make $50 and every time you lose you’ll lose $25. Now, after making these 100 trades you end up with a profit of $1250. Yes, that means that we only won half of our trades but still ended up with a nice amount of profit. That's how powerful risk management is to your trading strategy.
+
+Winning Trade
+You don't have to win every trade to be profitable.
+As seen from the example, risk management is a key to a successful strategy. This is also super easy to do since many platforms like TradingView offer a tool to do this, and luckily for you, Coin Bureau has a guide on how to use TradingView. However, when using this tool there’s one thing to keep in mind - Be Realistic. It’s not financially smart to simply put your profit levels to the moon just for the ratio to be good enough for you. Rather be realistic and if the ratio isn’t good enough then don’t enter the trade. There's always other opportunities out there.
+
+Different Trading Strategies
+Now before getting into these strategies there are a few things I want to point out. First, don’t limit your options to only one. If you want to be a short-term trader then that’s fine, but it doesn’t have to limit your option to invest in something you believe in for the long run. The same goes the other way 'round. If you prefer to invest long-term that's great, but it doesn’t hurt to try out some other strategies too. By using a combination of a few strategies you can lower your risk, and that’s always a good thing. Secondly, these aren’t all the strategies out there, and especially when it comes to these more specific strategies there are mountains of content to be found. And finally, these are not ordered from best to worst and you should therefore keep reading till you find something which seems suitable for your own personality.
+
+Day Trading
+Let’s begin with the most well-known form of trading. Day trading is simply buying and selling an asset during the same day. This is where many amateur traders start and also stop since they tend to lose money. This isn’t because the strategy is the worst, but rather because it’s not as easy as it might seem.
+
+Day trading is almost always based on technical analysis (TA), which for a beginner might be quite difficult. Many people simply believe that drawing a few lines and then trading based on those will make them rich. And yes, while TA might be largely based on drawing lines you still need education to be able to draw and interpret those lines correctly. However, when you do learn the skills you might make a good amount on profits by doing this.
+
+Day Trading Technical Analysis
+
+Day trading and technical analysis can be hard, but it's nothing you can't learn.
+
+The hypothesis with day trading is that when trading on a shorter time frame you eliminate the risk of any black swans ruining your trade when you're away from the market. That’s also why you usually invest without actually having that much knowledge of the fundamentals of an asset but rather just by looking at the price chart and analysing that with TA. This is why if you prefer to invest in something that you truly believe in long-term day trading might not be for you.
+
+Scalping
+Scalping is a subcategory of day trading and also the extreme of day trading. In scalping, the goal is to make a large number of small trades, and then the small profits will stack up to a large profit. In scalping, you only keep an asset for a few minutes, or even just seconds. The reason people use this is that when only holding for such a short time you eliminate the risk of any black swans, and the price actions are purely technical.
+
+Lose Trade
+
+If this is you, then cheer up, don't give up. Get yourself a solid strategy and learn the skills necessary.
+
+When trying out scalping there are a few things to keep in mind. When you enter a trade keep your stop losses tight and don’t go chasing high profits for one trade. Also, because the profits from one trade are almost always less than 1% you need to have a cheap exchange. Many use Binance. Furthermore, I wouldn't recommend doing this unless you're extremely familiar with TA. Without the proper knowledge you’ll only end up gambling and this won’t teach you a thing. Plus it's almost a certainty you'll end up destroying your account, even if you're winning at first.
+
+Breakout Tradin
+An extremely popular strategy used by many people, both beginners and pros, is to take advantage of breakouts. This strategy is based on the most basic technical analysis and only includes finding support and resistance lines.
+
+When you find the support and resistance lines, where the price tends to reverse, you’ll see a range between them. The price usually tends to trade inside this range before we see a larger price movement either by breaking the support or resistance line. When you’re trading the breakout you’ll look to enter when this happens. If the price breaks above the resistance line you’ll enter a long position and if it dips below the support line you’ll enter short. How you exit your trade is more up to you. The best way to adjust your upside is to look for the next resistance or support level. Try to find a realistic level, since looking for all-time highs after one breakout won’t likely happen.
+
+This same strategy can also be used for not only sideways movements. If you’re familiar with TA you might have heard of wedges. Wedges are basically ranges steadily ascending or descending while the highs and lows are slowly getting closer to each other. The principles in these compared to the previous example are the same and can actually result in even greater price movements when the high and lows get together leading to a breakout in either direction.
+
+Downward Wedge
+
+After a downward moving wedge the price tends to pump. Image via Investopedia.
+
+One word of warning before you start trading with this is to be careful not to get fooled. This strategy is widely known and used which means that certain bigger players might trade against you. Therefore, look for a strong breakout. Don’t enter too early on a small breakout but rather wait for a strong green candle with a large volume. Yes, you might miss out on some gains if you wait, but I guarantee you that it’s worth it in order to lower the risk, which as mentioned earlier is the key.
+
+Range Trading
+After reading through the previous strategy this might be obvious for you. Simply put, instead of waiting for a breakout we’ll take advantage of the existing range and try to buy close to the support and sell near the resistance. Typically ranges are found in sideways movements but can also be found in both ascending and descending prices where the base trendline is drawn from previous lows and the resistance is drawn for the highs. This is often referred to as a channel. The risk with this strategy is that if you happen to enter near the resistance line just before a breakout to the downside you’ll lose money. Luckily there are a few entry strategies to prevent this.
+
+Range Trading
+
+A great strategy, but watch out for breakouts. Image via Investopedia.
+
+The entry strategy I would recommend is engulfing. The way you use this is by looking at when the price moves close to the support line you want to enter. When the price hits the support line there will be a red candle indicating the dropping price. After that the next candle should be green and considerably larger, if that happens you enter. By using this we have confirmed a reversal in the price and it will be less likely that a breakout to the downside will happen. Engulfing can also be used in different strategies and it works the same for entering a short position, although naturally, the candles will be in the opposite directions.
+
+Swing Trading and Position Trading
+Next up we’ve got something for those whose nerves can’t handle the stress of day trading or scalping. Swing trading is based on holding an asset for a few days to even a few weeks, while position trading is holding even longer, from a few weeks to even months. In both of these, it’s possible to combine different forms of analysis like fundamental analysis and technical analysis.
+
+Trend Trading
+I won’t get into this too much since you can find a piece on-trend trading on from Coin Bureau. However, I wanted to mention it since it’s a powerful way to trade and it can also be suitable for those who prefer other forms of analysis besides TA. In trend trading, your goal is to jump on an already existing trend and then exit when the trend makes a reversal. This means that you won’t be looking to sell at the top or even close to the top, but rather wait for a clear signal that the trend has reversed. This makes it possible for you to capitalise on both short-term and long-term trends since you won’t have a predetermined exit price, nor time.
+
+Trend Trading Article
+
+If you're interested and have time I suggest you take a look at this article.
+
+Trend trading also offers the opportunity to trade in every different stage of the market cycle since the point is to find when certain categories will boom, not just a single coin. For example, if you see exchange tokens starting to move upwards you might enter a few of them until the interest in exchange tokens changes to perhaps gaming-related tokens. There are so many opportunities here so make sure to read the above-mentioned article on it.
+
+Relative Strength Index (RSI)
+This too is based somewhat on jumping on a trend but when using this specific indicator you might find a trend before it even begins. The relative strength index is a momentum indicator that shows you when an asset might be overbought and when it might be oversold.
+
+The RSI gives you a reading of 0 to 100 and when it’s below 30 the asset is usually oversold and when over 70 it’s usually overbought. I won’t get into the technicalities on how it’s counted since the most important part for you is to know how you use it. RSI is usually used on a time frame of 14 days but can be adjusted for different time frames too. Because we’re talking about a few weeks RSI is perfectly suitable for swing trading but can also be used to find longer-term trends and opportunities when you adjust the time frame to say 50 days instead of 14.
+
+Relative Strength Index Example
+
+Here's an example of how to RSI can indicate momentum shifts. Image via Investopedia.
+
+Although the basic strategy on how to use the RSI would naturally be to buy near 30 and sell near 70 there are a few other ways to trade with RSI. One would be to wait for a price near or below 30 and instead of buying immediately wait for a reversal. Usually, after a small reversal, the price tends to dip again only to then jump back to near-term highs. The price we’re going to enter in on is when the price has dipped and then broken out from the previous high. If you didn’t catch what I meant you can read more about this strategy and also the RSI itself from Investopedia.
+
+Moving Average Crossovers
+Moving averages (MA) are very simple but also very powerful. They can give you a good indication of the overall trend of the markets and also, what makes this good for traders, it can show trend shifts.
+
+To find these trend shifts the best way is to look at MA crossovers. There are two different types commonly used. One is to look at the price chart along with one moving average. Then if the price dips below the moving average it can be a sign of a downturn, and the same goes the other way around. However, the other way to use crossovers tends to work better.
+
+Golden Cross And Death Cross
+
+Have you heard of a golden cross? Or perhaps of a death cross? Image via Academy Binance
+
+When using these you combine two, or in some cases maybe three, moving averages with different time frames. Then if the shorter time frame MA crosses the longer time frame MA it’s a sign of a trend shift. If this strategy sounds familiar it might be because the terms golden cross and death cross comes from this strategy. A golden cross is a general term for when the shorter-term MA crosses the longer term. Lately, though, it has been widely associated with the 50 and 200-day MAs. Death cross on the other hand signals the same movement but reversed, as you could have guessed from the names. What people don’t often realise is that this strategy can work for any time frame MAs. I’ve seen people day trade by using 3-day and 6-day moving averages. That’s why you should take a look at this strategy since regardless of how you tend to trade it can give you good indications of the market.
+
+Moving Average Convergence Divergence (MACD)
+As with the previous indicator, this is also based on MAs and shows the momentum of a market However, there are many differences between this and MA crossovers.
+
+First of all, this isn’t based on normal MAs but instead on exponential moving averages (EMA). Simply put, EMAs differ from normal MAs by placing more weight on the most recent price movements. When you use MACD on a chart you’ll see a line calculated by subtracting the 26-day EMA from the 12-day EMA. Then as a baseline, you’ll see the 9-day EMA. This indicator is also often depicted as a bar chart which can be easier to interpret.
+
+MACD Trading
+
+Great indicator, but I suggest you combine it with something else, like RSI. Image via Investopedia.
+
+The way you trade using this indicator is to buy when it goes above the baseline and sell when it dips below. However, MACD is known for giving a lot of false signals and is therefore often used with other indicators like the RSI. Since they both signal momentum changes it can be a good idea to combine those two and wait for them both to show the same signal. This should work relatively well since they are both calculated in different ways and it’s less likely that they both give the wrong signal. Also, as with the MA crossovers MACD can be used for all time frames. You can always use different periods than the 26 and 12 which can offer you ways to trade both longer and shorter-term momentum shifts
+
+Dollar-Cost Average (DCA)
+Now, this is something for all those not interested in short-term trading and who would rather be invested in a few things they truly believe in. The time frame here is for life since what’s the point of buying something you don’t believe in or selling something you do believe in.
+
+Dollar-cost averaging is perfect for the crypto market since high price volatility might ruin your investment if you enter at the wrong time. What you do in DCA is that you consistently buy a certain asset. One good idea would be to buy with a certain amount on the first day of each month. This way you’ll be guaranteed to buy more of the asset at low prices and less when price is high. Eventually, you’ll also buy at peaks and quite ridiculous prices but it won’t matter since your average purchase price will be lower.
+
+A great example of how DCA has been proven to be extremely profitable is found in this article by Coindesk. Essentially if you’d have bought $150 worth of Bitcoin at the beginning of every month from Jan 2018 until Mar 2021 you would have spent $23,550. This would have bought you 3.04 Bitcoins compared to the 1.69 Bitcoins you would have, had you bought with the same amount but everything in Jan 2018. For those interested in the dollar amount, at press time it would be $151,000 compared to $84,000. Quite the difference.
+
+Raining Money
+
+DCA is a proven strategy that'll make you money.
+
+Yes, you could make even more by buying everything at the bottom, but that's highly unlikely to happen. However, there is a way to enhance the effect of DCA. This is by purchasing more when the price seems down while limiting your purchases when the price is too high. This could in practice mean that you use these different indicators talked about in this article to find trends and signals if an asset is potentially undervalued or overvalued. For example, when we had the major bull run where Bitcoin hit $64,000 in the spring of 2021 it would have been smart to gradually decrease your scheduled purchase amount since if you see a surge of that magnitude it’s almost certain that the price will come down eventually. However, don’t overthink. You can try to time your purchases to some extent but if you do it too much you’ll lose the power of DCA. Therefore, only make exceptions to your schedule in extreme cases.
+
+Conclusion
+Hopefully, from this article you found something intriguing and useful. Maybe you didn’t find the most specific strategy on how to trade but the important thing is to first know which of these different trading ways you’ll start using. If it’s day trading you prefer then you’ll find tons of content on the internet, but beware scams. Especially in day trading, many so-called pros are trying to sell you expensive courses which won’t help you at all. Funnily enough, most pros know to stick to simple and proven methods. Therefore, I suggest you stick to the free content and also try to absorb knowledge from many different sources while doing your own research on the methods you get introduced to. For those looking for longer time horizon trades, I suggest you do the same. Even for this, there’s a lot of content, although not as much as for day trading.
+
+And lastly, before getting started make sure to have a specific strategy ready. Use what you’ve learned to draft a potentially profitable trading strategy and start executing that. Remember to track your process so you know if it works. If it doesn’t then change it and try again. You’ll possibly have to try many different approaches in order to find a working one. That’s why you’ll need to have the right risk/reward ratio with minimal losses. Good Luck!Since 2017 there have been reports that cryptocurrency exchanges are faking their volume, and most recently in March 2019 a report from Bitwise Asset Management gave the most detailed evidence of this, showing that 95% of Bitcoin volume is faked by exchanges.
+
+At the time of the report Bitcoin trading volume was roughly $6 billion per day, however, the exchanges reporting the greatest volume are unrecognized by most cryptocurrency investors.
+
+The report claims and shows that nearly all of this volume is faked or the result of non-economic wash trading. Even though the data from these exchanges is widely reported, even by mainstream media, it has been shown to be utterly wrong.
+
+The data in question is that reported by CoinMarketCap.com, widely considered the go-to source for Bitcoin volume and pricing. Data from this site is used by every major media outlet in the world including The Wall Street Journal, The New York Times, Forbes, CNBC, and Barron’s.
+
+And yet its data is egregiously wrong, including a significant amount of faked trading volume, which paints a false picture of the size and nature of the Bitcoin market.
+
+What is Exchange Volume Faking?
+Exchange volume faking, which is also called wash trading, is when a trader buys and sells at nearly the same instant, with the purpose of feeding the market with false information. Wash trades can be done by a trader and exchange working together, or by two traders colluding with each other in traditional markets.
+
+The Bitcoin market wash trading is especially pervasive because it can be done by the same person using the same account. In equity markets in the U.S. wash trading is illegal, but because cryptocurrency markets are unregulated the same is not true for them.
+
+OkEx Faking Volume
+Some Pretty Obvious Exchange Faking on OkEX. Image Source
+Wash trading was most recently in headlines in 2013 when the then-Commissioner of the Commodity Futures Trading Commission launched an investigation into potential violations of wash trading laws in the high-frequency trading industry. High-frequency trading is when trading software is used to perform thousands or tens of thousands of trades per second.
+
+The then-Commissioner felt that carrying out wash trades using this type of technology would be extremely easy. He was right and guess what other industry has adopted high-frequency trading software in the past few years? Yes, the Bitcoin and cryptocurrency traders use such software.
+
+Why is Volume Faking Used?
+The largest crypto exchanges in the world get to decide which tokens will get liquidity, and which won’t. This is critically important to token projects, particularly those in the ICO or IEO phase because without liquidity there’s little chance the token price will rise.
+
+This gives these projects an incentive to pay huge sums to get listed on an exchange, and naturally one of the criteria they use when deciding which exchanges they will pay to get listed on is trade volumes.
+
+This type of volume faking is common in self-reported league tables, but for crypto exchanges the incentives to inflate volume is huge. The exchanges that show the most trading volume are able to command listing fees from ICOs that are reportedly in the millions of dollars.
+
+It might seem as if this type of agreement shouldn’t be a big deal since it is between the ICO and the exchange, but what is the impact when exchanges are faking volume to boost listing fees? That’s the subtle danger in faked exchange volume.
+
+Another potential reason for faking volume is from new exchanges who are trying to attract traders to their platform.
+
+Why is Volume Faking Risky for Users?
+It doesn’t matter if it’s wash trades or something else, faking exchange volume has serious consequences for traders. Those who trade large amounts have the most to lose and take the greatest risks.
+
+There was a study done in March 2018 by trader Sylvain Ribes in which he investigated the impact of volume faking when selling $50,000 worth of cryptocurrencies in various pairs on the then-largest volume exchange OKEx.
+
+Slippage Faking OkEX
+Slippage as a function of volume with Log Scale. Image via Sylvain Ribes
+His study showed that even pairs which supposedly had volumes of $5 million there was the potential for slippage (the difference between the quoted price and the actual trade price) of 10%.
+
+That’s huge and it makes it extremely difficult to trade markets effectively. It also makes it impossible for large accounts to trade in and out of crypto efficiently.
+
+Examples of Real Exchange Volume
+Coinbase is one of the most well-known cryptocurrency exchanges, at least in the U.S. It is based in San Francisco and went through the necessary steps to obtain a BitLicense to operate in the state of New York. At the time of the Bitwise study, it was reporting $27 million a day in Bitcoin volume.
+
+Here’s a screenshot of their Coinbase Pro trading platform.
+
+Coinbase Pro Faking
+Screenshot of Coinbase Pro Platform. Image via Bitwise Report
+On the right is the trade history, giving trade size, price and time. The trade price is shown either in green, for buy orders that increased the price, or in red, for sell orders that lowered price. You’ll notice that there is no pattern and that green prices far outnumber red prices. If you take a screenshot at a different time the opposite might be true.
+
+The trade size column also shows no pattern. Trade sizes vary randomly. One notable non-random feature of trade size is the prevalence of trade sizes featuring round numbers, such as 0.10 BTC, 0.50 BTC, etc. This is expected because people have a tendency to trade in round numbers.
+
+In the center of the image is the trade graph, with each candle representing a five-minute time period. You can easily see that the size of the candles changes over time. Some five minute periods see greater price changes than others. And under the price candles are grey volume candles which also vary randomly.
+
+Finally, if you look to the left of the chart you’ll see the order book. That’s all the open orders waiting to be matched. Sell orders are on top in red and buy orders are on the bottom in green.
+
+In between the two is the spread or the difference between the highest buying price and the lowest selling price. In this case, it is $0.01 on a trade price of $3,419.60. In percentage terms that’s a 0.0003% spread, by far the tightest spread you’ll find in any financial instrument in the world.
+
+Example of an Exchange Faking Volume
+At the time Bitwise did its study CoinBene was the largest exchange in the world, with reported daily volume of $480 million or 18 times the Coinbase Pro volume.
+
+Coinbene Volume Faking
+CoinBene Exchange Faking
+The trading interface for Coinbene shows pretty much the same information as that for Coinbase Pro. On the right is the trade history. Note that the red and green trade prices are evenly distributed and alternating. It is nearly impossible that trades would alternate in such an even manner.
+
+If you look at the timestamp column you’ll see that orders are coming in pairs, with one buy order and an offsetting sell order. And the trade sizes are also nearly matching, which allows buy and sell orders to basically offset each other over time. Sounds suspiciously like a series of wash trades.
+
+Trade sizes also follow a very different pattern. You’ll notice there are no round number trades, despite the human tendency to trade in round numbers. And the smallest trade is 0.43 BTC, or roughly $1,400. Coinbase Pro had trades as small as 0.0017 BTC or $5.
+
+Looking at the order book you can see the highest buy order is $3239.59 and the lowest sell order is $3,274.33. This is a spread of $34.74, which is 3400 times the size of the Coinbase Pro spread! That’s very unusual since increased volume always leads to tighter spreads in any other financial market.
+
+Another Example of Faking It...
+There are other ways to see the faked volume on crypto exchanges, and one is clearly demonstrated by RightBTC, which at the time of the Bitwise study claimed four times the volume of Coinbase Pro or more than $100 million per day.
+
+RightBTC Fake Volume
+RightBTC Fake Volume
+What’s notable here is that despite the reportedly large volume of trading, the chart shows hours and even days at a time in which there are no trades at all. The red and green candles at the bottom of the chart represent volume, but there are large gaps when there is no trading volume. There’s no correlation with time of day or uptime or any other factor.
+
+Looking to the left at the order book shows the spread at RightBTC to be $371.99. That’s absolutely insane. It’s more than 10% versus the spread of 0.00003% at Coinbase Pro, despite RightBTC’s claims of greater volume.
+
+One More - Faking Till You Make It
+The exchange ChaoEx claims to have more than double the volume of Coinbase Pro at $70 million per day.
+
+ChaoEx Fake Volume
+ChaoEX Exchange Screenshot with Fake Volume
+As you can see from the image of the ChaoEx trading platform above this volume is at times monotonic. That is, it doesn’t change at all from hour to hour. It is inconceivable that volume would remain the same hour after hour, ignoring real-world events, news, time of day, and price movements.
+
+The chart above shows the trade volume remaining exactly the same every single hour for three consecutive days. That’s nearly impossible.
+
+Solving the Problem of Fake Trading Volume
+Following this report from Bitwise, there have been several proposed solutions to the problem of cryptocurrency exchanges faking trading volumes. CoinMarketCap would be the first part of the solution by improving how they present market data.
+
+That isn’t likely to happen however as the company behind CoinMarketCap has said their policy is to over-provide on data and let users draw their own conclusions based on the data.
+
+CoinMarketCap has said they will be updating their metrics to give users more insight into real trading volume, but so far that hasn’t been the case and no timeline has been provided for when the data metrics might change.
+
+In the meantime, those who want to see exchange volume only from the exchanges that have not been found to be faking their volume the site OpenMarketCap has that data. The open-source EDGAR database Messari also has data specific to the exchanges not faking volume, which it calls the “Real 10 Volume.”
+
+OpenMarketCap Trusted Exchanges
+The Top 10 Ranking by "Trusted Exchanges" as Determined by BitWise Report
+Of course, the real solution needs to be with the exchanges themselves, not the data providers. Greater transparency is needed in the entire industry to help eliminate these types of problems. Additionally, it is possible that sites such as CoinMarketCap could use their influence in the cryptocurrency ecosystem to help promote ethical behavior among the cryptocurrency exchanges.
+
+One suggestion made is for CoinMarketCap to consider imposing fines or suspend the listing of exchanges found to be engaging in unethical behavior. Of course, the question then is who makes the determination on which exchanges need to be suspended, and how large fines might be.
+
+Ultimately, and as much as proponents of decentralization hate the idea, exchanges will need to face regulation. That way there is impartial third-party monitoring of the behavior of these platforms to ensure they aren’t engaging in market manipulating tactics.
+
+Conclusion
+If the Bitwise report is accurate and 95% of the reported Bitcoin volume is being faked, then the cryptocurrency markets have a serious problem that will require a solution sooner rather than later. If claims of faking are true traders and investors are up against market manipulation that prevents market sentiment from determining what the true price of Bitcoin should be.
+
+One can hope that the negative impact will diminish as the market matures and more traders move to reputable exchanges, and as more reputable exchanges join the ecosystem.
+
+Up until now, it isn’t certain that all the fake wash trading occurring has had a significant impact on the price of Bitcoin, but then again there’s no way to prove whether it has or not. However, by focusing only on the ten exchanges deemed to be providing real market data it appears that the Bitcoin and cryptocurrency markets are actually more stable than previously thought.
+
+Based on research thus far, nearly all of the actual market liquidity is coming from the 10 “honest” crypto exchanges, even though there are literally hundreds of exchanges offering trading services. It’s easy to see that the price of Bitcoin is quite similar and consistent among the ten exchanges deemed to be faithfully reporting trade volume. Perhaps significantly for the future of the industry is that nine of those ten exchanges are regulated.
+
+As long as the broader market remains unregulated this type of volume faking will continue. There is no disincentive for exchanges, and every reason why they should engage in faking, from increased listing fees to growing their customer base to the contention that “everyone is doing it.”
+
+Inflating trade volume makes an exchange look more important, and increases its visibility. In turn that draws more traders to the platform, while also attracting more ICOs and allowing for higher listing fees. It’s a cycle not likely to solved from inside the industry.In the last few months, Bitcoin and all other cryptocurrencies have been more or less trading sideways with a few bigger drops and pops. Many who have tried to enter the market when there were signs of a possible uptrend have ended up losing their money when the market has suddenly reversed.
+
+The same has happened to those who have tried to avoid a bear market by selling in the few sharp drops we’ve had. If you are one of these two people and keep wondering why every time you think something is going to happen, the opposite thing happens, and that it is like someone wants you to lose money, then you need to read this article because someone is doing precisely that.
+
+In the last few weeks or earlier, you might have read or heard about a term called the Wyckoff method. This term may not mean anything to you, and you maybe haven’t looked into it any further, but it is time for you to know what it is and how it affects your crypto investments.
+
+What is the Wyckoff Method About?
+To understand the Wyckoff method, you need to know the basics of technical analysis, or at least know what it is. You can watch the Coin Bureau video about technical analysis from this link; it would help you tremendously ito understand this topic. For those who didn’t watch the video, let me just briefly tell you what technical analysis is.
+
+CryptoInvesting
+Are you confused by crypto technical analysis? Get knowledge here! Image via Pexels.com 
+In short, technical analysis is when traders analyze charts to try to distinguish different patterns that should predict where the price is headed and then trade stocks or cryptos according to those. TA might sound stupid for some people since it does not take into account any fundamentals of an asset you are analyzing.
+
+But when thinking about what it is truly based on, you find that it's just looking at how people react in certain situations. When studied long enough, you start seeing patterns that happen regularly due to human psychology and how we respond to emotions like fear and greed.
+
+Because many people use the same basic technical analysis by forming support and resistance lines to see from where the price usually jumps back up and from where it starts going down, it is easy for big institutions to manipulate the market by going against these typical patterns.
+
+Support and Resistance
+Technical analysis tries to find these areas of support and resistance. Image via IQTraderPro.com 
+For example, usually, when the price breaks up from the resistance line, it tends to continue to go up for some time, but if big institutions go against that and push the price down, then fear will take over for those who were certain that the price was going up and they will sell as panic and uncertainty take control of their actions. That, in turn, makes the price go even further down, which opens up a perfect time for institutions to buy low.
+
+This is basically what the Wyckoff method is all about, institutions going against typical trading patterns to benefit from other people's FUD.
+
+History of the Wyckoff Method
+In the 1930s, Richard Wyckoff noticed that these institutional investors were playing against retail investors in the stock market and that they made a lot of money while retail investors couldn’t understand the market movements, which made them buy and sell at completely wrong prices. In hopes of educating people about how the institutions are tricking them, he exposed the method they use, which is now named the Wyckoff Method.
+
+Wyckoff wanted retail investors to learn how the markets move so that they too could benefit from it. For people to better understand the markets, he suggested that the price movements in the stock market should be thought of as the actions of one man, which he named “composite man”.
+
+“…all the fluctuations in the market and in all the various stocks should be studied as if they were the result of one man’s operations. Let us call him the Composite Man, who, in theory, sits behind the scenes and manipulates the stocks to your disadvantage if you do not understand the game as he plays it; and to your great profit if you do understand it.” (The Richard D. Wyckoff Course in Stock Market Science and Technique, section 9, p. 1-2) 
+
+How do you spot the Wyckoff method?
+There are only two different kinds of patterns representing the Wyckoff method, and both are fairly easy to spot. What makes it harder to benefit from these patterns is the structure. Both patterns are divided into phases, and it might be hard to distinguish the different phases, as patterns can be many months long or just a few hours long. One of the patterns is called accumulation, and that is when institutions will push the price down to buy at a discounted price, and the other one is distribution, where they are looking to sell high.
+
+Wyckoff Price Cycle
+Wyckoff accumulation and distribution. Image via Stockcharts.com 
+If you want to learn more in-depth about the Wyckoff Method, I strongly suggest watching the coin bureau video about it from this link. However, if you don’t have the time to watch it now, then you can look at these pictures below and visit stockchart.com for more information.
+
+What you can see from these pictures is the basic shape that accumulation and distribution take. You can also see that both are divided into different phases.
+
+Wyckoff Phases
+Price action follows a series of phases. Image via Stockcharts.com 
+This is because institutions with their large holdings can’t simply buy however much they want, or whenever they want, without influencing the market, which is why they have to form these sideways movements where they buy/sell consistently.
+
+This is why, as already mentioned, the sideways movement can vary in time and size depending on how much institutions buy or sell. There can also be other factors like some unexpected black swan which disrupts the pattern and can make it harder for both institutions and retail traders to get a hold of the market. Generally speaking, though, you can find all of the most important phases if it really is institutions or large investors using the Wyckoff method.
+
+How does it apply to the Crypto Market?
+As you might have noticed, Wyckoff has not been alive at the same time as cryptocurrencies, so you might be wondering if it even applies to cryptos. The simple answer is yes, yes it does, and in my opinion, it is even easier to use in cryptos than in stocks. So hear me out.
+
+In general, cryptos are much more volatile than stocks. Due to a lack of knowledge in the crypto space, it is much more difficult to estimate a cryptocurrency’s intrinsic value than it is for a traditional company. This is why I believe that institutions have a lot easier to cause fear or greed in the market. If the Bitcoin price suddenly drops 20% due to manipulation, it will most certainly cause panic among newbie retail investors who thought they would get rich quick with cryptos. This further pushes the price down and can create an even greater drop than 20%, which gives institutions a more than perfect time to buy in.
+
+Wyckoff in Crypto
+Wyckoff distribution in Bitcoin. Image via Youtube 
+The same applies when institutions want to sell, and actually, this year's spike to $64,000 was a perfect case example of the Wyckoff method being used by large investors.
+
+While big names in the business industry were giving crazy price targets from $100,000 to $500,000, Bitcoin continued surging past $50,000 and $60,000. This caused many retail investors to get hit by FOMO (fear of missing out) and greed. This, in turn, caused them to buy in no matter how high the price was. At the same time, though, large investors were dumping their holdings and taking home huge profits, which led to a large supply of coins and eventually, there was more supply than demand which made the markets crash.
+
+Where are we Now?
+Hopefully, you were interested enough to watch the videos that I referred to earlier because if you did, you should now truly know what the Wyckoff method is all about, but if not, you can always go back and watch them from the links I left. But even if you watched both videos, there might still be one question you would like to know the answer to - where are we now?
+
+Well, right now, many of the traditional patterns of TA are being broken, which might mean that someone is manipulating the market. Another fact that further supports the argument that the market is being manipulated is the statistics from Chainanalysis, which tells us that 86% of daily trading volume comes from large investors.
+
+Just look at this chart and compare it to the chart of how a typical accumulation phase looks, then tell me they do not look similar.
+
+Bitcoin Price Chart
+Past three months price action in Bitcoin. Image via TradingView.com 
+As I thought, you can’t do that. The question then is, where are we now. As a newbie to these myself, I could try to argue that we are already past phase C and the string, but when further researching it, I now strongly believe that the string is still ahead of us, and why is that?
+
+Well, right now, there is a lot of uncertainty in crypto, especially in bitcoin due to regulations with China and then a large Grayscale bitcoin fund getting ready to unlock shares which might cause some selling pressure. This uncertainty makes, for example, JP Morgan analysts think that bitcoin’s price will likely hit a low of $25,000 before bouncing back up, and that could then be the spring phase.
+
+This, of course, isn’t something you can be completely sure about, and before even thinking about making any moves in your crypto portfolio, I strongly suggest you read the rest of this article.
+
+How to use your Knowledge
+The question that still stands is how you should use this information to guide yourself to bigger gains in the crypto market. The answer actually isn’t that hard to find and might come out as kind of simple. The answer is - don’t use it - and I’ll tell you why.
+
+Crypto Knowledge
+What will you do with your new-found crypto knowledge? 
+First of all, because technical analysis isn’t the only factor that plays a role in the market. You might get completely burnt when some unexpected event happens, like a huge wave of regulations worldwide starting tomorrow. I’m not saying this will happen, but it is something that you couldn’t forecast by looking at charts.
+
+Second of all, because of the high volatility in crypto, trading can be extremely costly when prices can dip more than 10% in a matter of minutes. Lastly - as in all trading - the amount of money you would have to use to cover the trading fees and potential taxes is quite a lot. You would be left with just a small fraction of the amount you made from your trade.
+
+The best thing to do if you are a believer in cryptocurrencies for the long run is to become a fellow HODLer and try to stay calm when others are struck by fear or greed.
+
+Hodler
+It's best to simply Hodl. 
+These patterns, like the Wyckoff Method, may be moving the price of cryptos in the short term, but if the product (in this case cryptos) is good, then the price will also reflect that when you look at it again in 10 years.
+
+What if I want to use my Knowledge?
+You might be completely bored with my answer in the last section, especially after reading this whole article and watching the two videos I referred to, so let’s play a game of how you could use all this information IF it were something that would be smart to do?
+
+Well, because we can try to see the different phases both in an accumulation and distribution, you could try to time your buying and selling in these to get the best price. Before you buy, it might be smart to check the chart and try to spot where the price could possibly bottom and then start buying when we get closer to that point. It could also be smart to buy in small positions in case that your analysis was wrong and the prices keep dropping from the level you thought we might bounce back up.
+
+The same applies to when you are trying to sell your coins. You can try to spot where we might be and start selling when we start approaching the place you believe is the top. One thing you do have to remember is that, as already mentioned, the different phases can vary in both time and size, and you can potentially lose a lot of money if entering at the wrong time.
+
+Market Timing
+If timing the market were easy, we'd all be rich. 
+The problem with trying to play the market like the institutions do is that when more and more people start using the Wyckoff charts as bases for trading or trying to buy low or sell high, then that will become the next normal and institutions will see that and they will start playing against you with a different approach. If everyone is now waiting for the spring to happen - so that we could buy the dip - institutions might keep pushing the price further down until fear starts taking over and the sell-off they were hoping for becomes even greater.
+
+Conclusion
+That is why I’ll stick to my opinion that the best thing to do is to consistently buy the dips and then HODL. The value of Bitcoin, or any other crypto for that matter, will move upwards in the long run if it keeps getting adopted and we see more positive news for cryptos.
+
+Therefore trying to play the market in the short term will most certainly only lose you money compared to what you could have made with just buying consistently and HODLing. If you do not believe me in this, then just take a look at the numerous researches made about the stock market where almost always those who trade actively lose to the ones that are in it for the long run.
+
+Occasionally, of course, when you are in the market and especially the crypto market you will experience large drops where you cry at night for not selling and then buying back later. But it is impossible to know when the market will turn; the prices could just as well go up another 100%, and if you would have sold, you would most certainly be even more depressed than if it was the other way around. That is why you’ll just have to remember your initial bull case and try to stay calm when navigating your crypto vessel through the ocean of fear and greed.
+
+Hopefully, you know now what the Wyckoff method is all about and how the institutions are trying to trick you into doing what benefits them the most. With this knowledge, you may not make any 100x gains but at least you can try to stay clear of buying or selling if you notice these patterns taking shape.
+
+If you still want to learn more, I suggest you navigate your way to Youtube and search for the Wyckoff method. There is a lot of quality content about this phenomenon, and it’s always good to further educate yourself.If you’re reading this, chances are you understand the incredible future that cryptocurrency, and blockchain technology in general, is likely to experience. Equally, it may have come to your attention the incredible sums of money that some cryptocurrency investors have made to date. Either way, an understanding of the risk involved in various cryptocurrency investments is essential when it comes to building a crypto portfolio of your own.
+
+Ultimately, the make-up of your portfolio, with regards to any asset, will hinge on your personal risk appetite. Are you looking to park some of your hard-earned cash into a long-term position in a relatively stable asset that might produce steady rewards over time? Or are you looking for as quick a return as possible and don’t mind risking the potential loss of some of your funds?
+
+Chances are, if you’re looking at cryptocurrencies at all, your risk tolerance is reasonably high, given the high volatility involved in nearly blockchain investments. However, within the crypto-space, assets vary massively in volatility and, thereby, in risk-level.
+
+To make life easier, we’ve broken down the cryptocurrency market into five categories, beginning with the safest and moving downwards towards the riskiest assets. These five categories are:
+
+Stablecoins
+Bitcoin (BTC)
+Altcoins
+Initial Coin Offerings
+Meme coins
+The first thing to say, before we delve into the realms of different cryptocurrencies, is that the following rankings are based on prevailing opinion and past performance. In the grand scheme of things, cryptocurrencies are in their infancy, and any predictions of future price movements are fundamentally extremely speculative in nature. That said, using a few criteria, we are able to effectively rank various assets according to their respective risks.
+
+To build on this concept, Guy also put together a video on how to build a crypto portfolio with tips for maximum gains.
+
+
+Stablecoins
+At the least risky end of the cryptocurrency spectrum are stablecoins. These are cryptocurrencies that have their value tied to some other asset such as gold or fiat currency. Examples include USD Coin (USDC), USD Token (USDT) and PAX Gold (PAXG).
+
+As you might have guessed from the names, USDC and USDT are pegged against the US dollar. One USDC, for example, is fully backed by one dollar, held in a bank account. Each time someone purchases a USD Coin, Circle, the developer of USDC, are obliged to purchase one US dollar. What’s more, every USDC is fully redeemable for one US dollar. The result is that the value of one USDC, at any point in time, is almost exactly one USD.
+
+Below image from CoinMarketCap.
+
+ USDC Chart 
+
+Similarly, PAXG is pegged to gold, with one PAXG token fully backed by one fine troy ounce of gold. If you own a PAXG token, you also own the underlying asset of one fine troy ounce of gold. PAX Gold is the only gold token that you can redeem for LBMA-accredited Good Delivery gold bullion bars. This gold is held in a vault by Paxos Trust Company.
+
+The benefit of tying the value of a cryptocurrency to another underlying asset is that you can circumvent the general volatility of cryptocurrency markets whilst still holding a digital asset. As the US dollar and gold are generally less volatile than even the most stable of other cryptocurrencies (like Bitcoin), the result is a more stable, less volatile blockchain asset. Hence, the name, Stablecoins.
+
+The below image, from CoinDesk, helps to illustrate the relative stability of a currency like USD in comparison to BTC by showing the respective daily returns for both assets trading against the Canadian Dollar, since 2016.
+
+ BTC Returns 
+
+However, the tradeoff for this stability is you are very unlikely to see any significant returns on your stablecoin positions, over and above the returns you would receive from simply holding the underlying asset. Here, lower risk is accompanied by low reward.
+
+That said, many investors will hold some form of stablecoin in their crypto portfolio to provide liquidity for swiftly executing future purchases without the hassle of depositing using standard fiat currencies like USD, EUR or GBP. Furthermore, taking profits in the form of a stablecoin may well allow you to avoid some of the fees involved in converting your cryptocurrency profits into fiat, provided you are looking to reinvest your profits.
+
+One further reason to hold a stablecoin is that it can be staked to receive greater year on year rewards than if you were to hold USD in a traditional bank account.
+
+ OKX Inline 
+
+Bitcoin
+While it might seem strange to give BTC a category all of its own, I have done so for good reason.
+
+Bitcoin is the ‘original’ cryptocurrency and if someone has heard about cryptocurrencies, chances are they will have heard of BTC. What’s more, BTC dominates the crypto market with generally more than half of all the capital in cryptocurrencies sitting in Bitcoin.
+
+Bitcoin is such a unique and dominating asset in the crypto space that many consider whether or not Bitcoin may someday become a world reserve currency!
+
+The below graph from Trading View tracks Bitcoin dominance over the past five years.
+
+ BTC Dominance 5Y 
+
+Within the overall crypto-space, Bitcoin can be seen as a relatively un-risky asset. This is because BTC has so large a market cap when compared with other cryptocurrencies. According to Statista, Bitcoin’s market cap exceeded one trillion USD in April 2021. A higher market capitalisation means that a greater volume of buying/selling is required to move the price upwards or downwards respectively, resulting in lower volatility.
+
+According to CoinDesk, between May 18, 2021 and June 18, 2021, the price of BTC dropped from $43,144 to $37,722; a drop of 12.6%. Contrastingly, Ethereum, the second biggest cryptocurrency by market capitalisation, fell from $3,232 to $2,343 in the same time period; a fall of 27.5%.
+
+Whilst it is true that a fall of 12.6% is a large decrease to occur in just one month for any asset, this is small in comparison to the losses seen by alt-coins, like Ethereum and many others, in the same period.
+
+Bitcoin’s primary use is as a store of value and some ‘Bitcoin Maximalist’ investors center their investment strategies around stock-piling the world’s most popular crypto-asset, believing that its utility as a store-of-value make it the best coin to HODL for the long term.
+
+Indeed, prevailing opinion suggests the entire cryptocurrency market cycle is triggered by the Bitcoin halving that takes place roughly every four years, with the most recent halving taking place in May 2020. A Bitcoin halving occurs when the total year-on-year rewards available for mining is reduced by 50%, reducing the available supply.
+
+This helpful chart from CoinDesk helps to illustrate the correlation between BTC price and the timings of Bitcoin halvings.
+
+ BTC Price Runup 
+
+Regardless of its huge market capitalisation, dollar cost averaging into a Bitcoin portfolio is still considered a sound investment strategy by many. Indeed, several prominent NFL players have started to convert their entire salary into Bitcoin!
+
+Sean Culkin
+NFL players are helping to drive Bitcoin adoption.
+Sean Culkin, of the Kansas City Chiefs, was the first player to take this monumental step.
+
+Altcoins
+By ‘Altcoin’, what we really mean is any cryptocurrency other than Bitcoin. These altcoins range from a coin as big as Ethereum, with a market cap of $247 billion, to new and upcoming projects, many of which have their foundations on the Ethereum blockchain.
+
+Naturally, these assets are more volatile than both stablecoins and Bitcoin. However, this increased volatility means there is greater potential for profits and, unfortunately, losses as well. Trading in altcoins is a quite popular activity for a subset of crypto investors!
+
+According to CoinDesk, if you had purchased BTC on October 1, 2019, and sold your position on April 1, 2021, you would be up a highly impressive 447%. However, if you had held Cardano (ADA), a highly prominent altcoin, you would be up a staggering 1,082%.
+
+ADA Price
+Cardano has seen massive increase in price.
+These increased gains are caused by the lower market cap of altcoins when compared to Bitcoin and by the fact that adoption of these altcoins is of a higher rate than that of Bitcoin. To put it simply, they are newer and, therefore, have greater potential for upward price movement.
+
+Of course, this earning potential should be tempered by the fact that, being less established, altcoins are an altogether riskier asset to hold because they also have a greater potential for downward movement.
+
+That said, the levels of risk attached to these altcoins vary wildly from coin to coin. Ethereum has reached so high a level of adoption and market cap that it is now considered to be relatively un-risky. Indeed, we might consider any coins in the top-10 by market cap to be reasonably safe compared with the universe of other cryptocurrencies.
+
+CMC Top 10
+Top 10 coins by market cap (August 2021). Image via CoinmarketCap.com 
+The reality is that the lower down the ‘market cap list’ we go, the smaller and, therefore, riskier the asset becomes. At the time of writing, the 100th coin by market cap (OMG Network’s OMG token) had a market cap of $629 million; this is only 0.21% of ETH’s market cap at the same point in time.
+
+Whilst you have a chance to achieve multiple X gains on a smaller coin, there is a greater chance that said coin will meet with a collapse in value, wiping out that portion of your portfolio.
+
+Many investors in cryptocurrency will look to make increased profits on the altcoins. However, as previously mentioned, the altcoin of choice and what proportion of your portfolio you invest into it, will boil down to your own risk appetite and research.
+
+‘Others’ (Meme Coins & ICOs)
+In spite of the highly impressive gains that some of the top altcoins have experienced, for some investors, this simply isn’t enough. Indeed, some of the most profitable strategies have involved investment into what are now known as ‘meme coins’, or even the buying of coins before they make it to market, through processes known as initial coin offerings (ICOs).
+
+Meme Coins
+Whilst meme coins technically constitute altcoins, we’ve given them their own category owing to their increased risk level.
+
+In reality, meme coins are a breed of altcoin. However, they differ in that, unlike coins like Ethereum, they have no real use case. They are valuable only due to promotion by influencers and the popularisation of meme-culture. They are typically highly volatile in terms of price, market cap and trading volume.
+
+The second most well-known cryptocurrency after Bitcoin, is Dogecoin (DOGE). Originally a joke, born from the popular ‘Doge’ meme, the astronomical gains that DOGE has seen in 2021 cannot be dismissed. Dogecoin was made famous by Elon Musk’s comments on Twitter in early 2021, and by the incredible price action it has undergone, shooting up an incredible 1,250% in the period between April 1, 2021, and May 8, 2021.
+
+ DOGEMuch wow. So crypto. 
+
+On January 1, 2021, DOGE’s price was $0.005405 but by mid-May, its price had skyrocketed to upwards of $0.7. In other words, its price increased by a factor of more than 129 in less than 6 months. This inflated price was the result of Musk effectively popularising the token through various social media outlets.
+
+Musk and DOGE
+Elon Musk loves Dogecoin! Image via Twitter. 
+Whilst many of the cryptocurrencies we see today, such as Ethereum and others, have real world use cases, Dogecoin has none. Its rise in value was the result of hype and hype alone.
+
+While Dogecoin was the first, it is no longer the only meme coin to have seen extreme gains in 2021. Shiba Inu’s SHIB token has proved hugely profitable for early investors too and the number of meme coins available to speculate on grows by the day.
+
+This reliance on social sentiment with no fundamental use cases or strong tokenomics makes meme coins a risky gamble at best and, at worst, a sexy way to throw away your money. However, as investors, we find ourselves unable to ignore the unrivalled upward potential of such unpredictable cryptocurrencies.
+
+ICOs
+ICO stands for Initial Coin Offering and is the cryptocurrency equivalent of an IPO (Initial Public Offering) in the stock markets.
+
+In short, by offering a portion of the total supply of a token up for purchase before that token goes to market, developers can raise capital to assist in future development and advancement of their crypto project. Indeed, the sums of money they are able to raise can be herculean in some cases. Ethereum held an ICO in 2014 that managed to raise $2.3 million in its first 12 hours.
+
+From an investment standpoint, initial coin offerings provide a way of buying into the next big cryptocurrency as early as possible and, oftentimes, at a hugely discounted price. The price of one ETH during its 2014 ICO was a mere $0.30. Let’s not forget that Ethereum’s price in mid-May of this year was as high as $4,133. That’s right: if you had managed to get hold of $75 of ETH in its ICO, and liquidated in mid-May of 2021, you would be a millionaire in USD terms.
+
+ICO
+ICOs have been a source of massive wealth for some. 
+The risk of buying into ICOs is that, if a cryptocurrency is holding an ICO, they are unlikely to be established. In other words, they are in their infancy. It can be difficult to discern whether or not the project in question is the next Ethereum, or whether it will tank to negligible value, shortly after going to market, resulting in massive financial losses for investors.
+
+What’s more, it is not uncommon for individuals to set up an ICO, allow people to buy in and inflate the price of a token, only to quickly liquidate their substantial holdings of the token to make vast amounts of money for themselves and tank the price for everyone else. This is known as a ‘rug pull’, a phenomenon that should be in the back of your mind whenever you buy into a cryptocurrency as early as the ICO phase.
+
+The only way to be sure you are not about to get played by nefarious actors is to carry out in depth research into the project before investing. With enough information, you may well be able to spot the next big thing. This is true of any cryptocurrency investment but is especially true when it comes to ICOs.
+
+Crypto Portfolio Allocation
+It follows from the above rankings that, if your risk appetite is low, you are likely to want to adopt an investment strategy such as dollar-cost-averaging into high-cap cryptocurrencies like BTC and ETH. Indeed, this is the strategy that I use for my personal portfolio.
+
+Dollar-cost-averaging is an investment strategy that aims to mitigate the volatility of an asset by buying at regular intervals regardless of price.
+
+Dollar Cost Averaging
+Dollar cost averaging is one good way to accumulate coins.
+By contrast, if you are willing to gamble with your funds, you may want to spend time trying to predict the next Dogecoin or successful ICO; a risky strategy but one that has the potential to pay off in a very big way indeed.
+
+Naturally, you may wish to adopt a strategy that involves investment into all five of the above categories. However, your risk appetite will influence the proportions you allocate to each category.
+
+An example of a crypto portfolio:
+One possible portfolio crypto allocation layout may look like this. Let’s call this investor, John:
+
+25% Bitcoin
+25% Ethereum
+15% USDC
+35% Altcoins
+This is just an example portfolio that I have made up. However, we can see why someone might want to construct a portfolio just like it.
+
+15% of John’s portfolio crypto allocation is allocated to USD Coin. As previously mentioned, John is unlikely to see big gains from his USDC. It is likely, however, that John holds this USDC to make sure he has the liquidity to rapidly execute a trade if he spies an opportunity that he wants to enter quickly. Making a trade directly from USDC is quicker than buying a coin using his bank card every time. What’s more, John may have taken profit on a trade that he is, for now, holding in this particular stablecoin.
+
+John also allocates 25% of his portfolio to BTC. Given the high adoption level of Bitcoin, John sees this as a relatively safe investment. Indeed, if the cryptocurrency markets are performing well, it is highly likely that BTC is experiencing this too.
+
+John’s reason for holding another 25% in Ethereum is not dissimilar to the aforementioned reason for holding Bitcoin. The second largest currency by market cap, Ethereum is relatively safe too but, being younger than Bitcoin and with a plethora of Ethereum developments (Dapps, improved NFTs, increased DeFi use cases, and staking) in the works, he expects to see greater gains on his ETH than on his BTC.
+
+The remaining 35% of John’s portfolio is held in other, lower cap altcoins. These altcoins might include, Cardano (ADA), Polkadot (DOT) and Polygon (MATIC) or countless others. A number of investors are highly bullish on these coins and John is hoping to see profits even greater than those obtained from his Ethereum position. Perhaps John has also sought to diversify his portfolio into the NFT space too. He may well hold Origin Protocol (OGN) or even AXS, the native currency to the growing NFT game, Axie Infinity.
+
+These altcoins constitute John’s riskiest assets due to their relatively low market capitalisation, and it is for this reason that he is holding only 35% of his position in said coins.
+
+We notice also that John does not hold any meme coins. He has decided that, despite the possibility of multiple X gains, such coins are risky enough to fall outside of his own personal risk tolerance.
+
+Portfolio
+A properly constructed portfolio will increase returns while reducing risk Image via Shutterstock 
+The above portfolio is just a fictional example of how someone, like John, might allocate their cryptocurrency position. However, we can see the thought process that a potential cryptocurrency investor will look to engage in. John’s portfolio can be considered reasonably well diversified and in line with his own risk appetite. Most importantly, John has done his own research before investing into any of the above-mentioned coins.
+
+If you’d like the see the specific breakdown of Guy the crypto king’s portfolio, then I suggest subscribing to the Coin Bureau weekly newsletter. In it, he gives his current portfolio, any changes and why they’ve been made, as well as a wealth of cryptocurrency news and wisdom.
+
+ Telegram Inline 
+
+Crypto Investing Portfolio: Conclusion
+There is much more to investing in cryptocurrency than portfolio allocation. Methods like staking, for example, are something long term holders may well want to investigate. Indeed, where you actually store your cryptocurrency position is a topic in its own right!
+
+You might want to keep some crypto in an exchange for swift trading (despite the security risks), whilst leaving most of your position in an ultra-safe hardware wallet.
+
+If you want to learn about these topics, then you can’t go wrong by checking out other articles on our website or taking a look at our YouTube channel.
+
+That said, hopefully this article has given you the basic information you need to start thinking about how you want your crypto portfolio to look, with respect to your own risk appetite. By understanding the respective risk levels of differing cryptocurrencies, investors can best equip themselves to deal with high levels of volatility that is part and parcel of the cryptocurrency markets.
+
+At the end of the day, there is no replacement for doing your own research. Whilst it is healthy to learn from those more experienced in the crypto-space, the only advice worth taking is your own!News is always a great driver of rallies in the crypto space, and the most recent coin to gain some attention and love from traders and investors is Polygon’s MATIC token. As of writing the MATIC token is up 24% Friday on bullish news regarding the adoption of the blockchain by major traditional institutions and media networks.
+
+Those gains are not isolated either, with the MATIC token rising 270% over the past four months. A look at a chart of MATIC shows the bulk of those gains made back in June/July, but the recent bullish news has created a breakout from an ascending triangle pattern, and could be the start of a new massive leg higher for the token.
+
+MATIC chart
+
+Polygon and Meta Platforms
+This latest pump for MATIC comes in the wake of news that Meta Platforms, the parent company of Facebook and Instagram, will be using the Polygon chain to mint and sell NFTs on Instagram. This makes Polygon the sole blockchain partner of Meta in terms of NFT minting. While there’s been no news regarding Facebook, it makes sense that Meta would expand the NFT minting to that platform in the future as well, giving Polygon access to the nearly 3 billion strong active user group at Facebook.
+
+The latest update from Instagram states:
+
+“Creators will soon be able to make their own digital collectibles on Instagram and sell them to fans, both on and off Instagram. They’ll have an end-to-end toolkit — from creation (starting on the Polygon blockchain) and showcasing, to selling.”
+
+JPMorgan also Bullish on Polygon Chain
+The news from Meta comes on the heels of JPMorgan successfully executing its first DeFi trade on the Polygon chain. That trade was part of a project involving Singapore’s DBS Bank, and Japan’s SBI Digital, along with Marketnode.
+
+According the Han Kwee Juan, group head of strategy and planning at DBS;
+
+“We wanted to show it was possible to tokenize government securities and cash within a DeFi liquidity pool. Then, using an [automated market maker], and solving for that with price oracles and market data streaming services from Bloomberg or Refinitiv, we wanted to create an institutional-grade DeFi venue which regulators would be comfortable with.”
+
+Investors Snap up Coins with Positive Fundamentals
+Despite the lingering coldness in crypto markets, this development shows investors are willing to snap up coins that have positive fundamentals and good positioning for when a new bull market emerges. News driven trading remains healthy, as evidenced not only by MATIC’s rise, but also by the 60% pop in Arweave’s AR token following news that Meta will use its decentralized storage solution to archive digital collectibles.
+
+"The Meta announcement has brought attention to MATIC and Arweave, and traders seem to be pairing long positions in these coins with short [sell] positions in perpetual futures tied to bitcoin," said Matthew Dibb, COO and co-founder of Stack Funds.
+
+Dogecoin has seen a similar news-driven rally in the past week, with DOGE tokens jumping 50% following Elon Musk’s purchase of Twitter. Musk is a well-known DOGE bull and there is speculation that he could somehow use the token in conjunction with Twitter.
+
+MATIC Technicals Look Strong
+Open interest in MATIC futures has also nearly doubled over the past days, according to data from Coinglass. That indicates traders building new long positions in MATIC and is positive for a continued uptrend in the token. Increased open interest in conjunction with a rising price is indicative of a building uptrend in the price of the underlying MATIC token.Since 2008 when the Bitcoin white paper was released, a key question for all who have considered investing in it has been how to value Bitcoin. When valuing stocks, we analyse a company's fundamentals with different metrics and formulas like P/E ( price to earnings), P/S ( price to sales), discounted cash flow analysis, and many more. But when it comes to Bitcoin, we don't have any earnings or cash flow, so how should we value it?
+
+Because people quickly realised that bitcoin can't be valued similarly to companies, they started to look for other assets to compare with Bitcoin, and many settled on gold. The key similarity between Bitcoin and gold is that both assets are scarce. Scarcity is the main feature of these assets and why we value gold as highly as we do. After all, it's not like gold is particularly useful or plays an essential part in our survival.
+
+bitcoin gold
+Is BTC like gold, or even better? 
+So now that we have assets to compare with Bitcoin, we just need to figure out how to value scarcity correctly. But first, let's answer the question many of you are probably thinking about, what or who is Plan B.
+
+Who is Plan B?
+Plan B is an anonymous person we don't have much information about, so we haven't figured out his true identity. However, we do know that Plan B is a Dutch institutional investor who got into bitcoin in 2013. Plan B is said to have two degrees, one in finance on quantitative analysis and one in banking and financial law. He has always worked in finance, and also now he has a day job, with crypto being more like a serious hobby for him.
+
+When he first got into crypto in 2013, he started to look for a way to value these digital assets. When he couldn't find any reliable method, he started creating one himself. Plan B got his inspiration from Saifedean Ammous. For those who don't know who he is, he created one of the most famous Bitcoin books called The Bitcoin Standard. In this book, Ammous explains the stock-to-flow model and how it creates value for gold and other scarce assets.
+
+Then in 2019, Plan B finally published his stock-to-flow model on bitcoin, which has gained huge popularity due to its quite accurate indications. Although lately, people have started to question its accuracy since it is now the furthest away that it has ever been from the price target. After the stock-to-flow model on Bitcoin was released, he continued to develop his model. A year later, he released another model called the stock-to-flow cross-asset model, which considers other scarce assets like gold and silver.
+
+plan b hat
+We do not know his true identity but he uses this hat as his symbol. Image via Plan B’s Twitter 
+Stock-to-flow on Bitcoin
+For all commodities or basically all items with a quantifiable amount and a quantifiable production, you can count their stock-to-flow. It is simply to divide the item's stock with its flow. This gives a value that states how many years it would take to produce the amount you have in inventory; for example, gold has an SF of 62, as you can see from the chart. This is what Saifeadean Ammous explained in his book.
+
+sf for commodities
+The stock-to-flow of a few commodities. Image via PlanBTC.com 
+For commodities used in everyday life like copper, aluminium, palladium, or platinum, it is almost impossible to escape the trap of a low SF because if its demand increases, so will its flow. This is why scarcity has value since, especially in bitcoin, it is impossible to increase the flow, which means that if there is demand, it will not drive the flow up, but rather the price. This is, in fact, why from a scarcity viewpoint, bitcoin is the optimal asset, even better than gold since gold’s flow could also technically rise significantly if someone finds large amounts of it.
+
+When Plan B applied the stock-to-flow model for Bitcoin, he used 111 data points from 2009 to 2019. Then he used a linear regression which clearly showed a correlation between bitcoin’s market cap and its SF. He used different colours for his charts, where blue represents the months close to a halving and red the price a few months after that.
+
+He did this because a halving plays a huge role in this model. After all, the stock to flow doubles when the flow gets cut in half. This is why according to Plan B, the price usually jumps a few months after halving since bitcoin gets more scarce. To further support his model, he also used the same thing for gold and silver (marked with a yellow and grey ball) and saw that they are also correlated with the model.
+
+why bitcoin has value-scarcity
+Chart made by Plan B. Image via PlanBTC.com 
+sf model on bitcoin
+Chart made by Plan B. Image via PlanBTC.com 
+Many of you are probably now wondering if the model really works, and as a simple answer to that, it looks like it does. When Plan B tested his model, it gave him an R2 of 95%; why not 100%, you may ask. Well, that is never possible because there are so many things that influence the price of bitcoin, like regulations, hacks, and many other things.
+
+That is why the price will never be on a straight line. Plan B also says that you can't be entirely sure that there is a real correlation, but it is highly likely. Another fact that supports his model is that it showed a market cap prediction of $1 trillion for bitcoin after the latest halving, and that is roughly the level reached by Bitcoin. Of course, as already mentioned, we are now the furthest we've been from the price prediction, but we'll later talk more about whether to use this model or not.
+
+Stock-to-Flow Cross-Asset Model
+The main difference between this new model and the old one is that the old one was a time series model for bitcoin, and this new one is a model that you can use to value all similar assets. Basically, time has been swapped with other assets in this new formula. Plan B also mentions that to use this new model, you need to understand phase transitions which play an essential part in using this model.
+
+To explain phase transitions, Plan B uses three examples, water, dollar, and bitcoin. As probably all of us know, water can be solid, liquid, gas, and ionised; it is still water but just in different phases.
+
+water phases
+Typically we only talk about three of these, solid-liquid-gas. Image via PlanBTC.com 
+Plan B explains that phase transitions also appear in finance, for example, in the dollar. First, it was a gold coin, then a paper backed by gold, and then just paper backed by nothing. In all these phases, it was called the dollar, although it was a completely different thing.
+
+dollar phases
+Gold coin - paper backed by gold - paper backed by nothing. Image via PlanBTC.com 
+Now to the bitcoin phases. First, we had “proof-of-concept” when Bitcoin was first released. Then we had the “payments” phase when one Bitcoin was equal to one dollar. Thirdly came the “e-gold” phase, which was after the first halving. And then now we are in the “financial asset” phase.
+
+Okay, so how do these phases work then? In the chart down below, you can see monthly data from the original SF model and how they form these clusters. You can also see the gold and silver data points which seem to line up with the rest. Plan B explains that these clusters are being formed and correlated with the SF and market cap; according to him, this model has an R2 of 99.7%.
+
+bitcoin s2f cross asset model
+Chart made by Plan B. Image via PlanBTC.com 
+Do the Models Work?
+We already briefly looked at this for the SF model but let’s see if we can further look at how these models could possibly give us a hint of where we are going.
+
+So with the original model, we currently should have a price of around $110k, and this is why many have started to wonder if the model actually works. For the stock-to-flow cross-asset model, we have a price target of $288k between 2020-2024. As you probably noticed, the target prices are quite far from each other and even further away from the current price; what should we do?
+
+On Scott Melker’s Youtube channel, Plan B himself said that markets should not be predictable, and that is, of course, a fact to some extent since otherwise we would all be at least millionaires. However, we also know that bitcoin is a relatively young asset, and to find a formula that represents some sort of correlation might not be that difficult.
+
+The correlation might just be a coincidence. This is, in fact, what Ethereum founder Vitalik Buterin said. Or, to be more accurate, he didn’t say that the SF model was wrong. He just said that you can’t know whether this model actually works, but neither can you say that it doesn’t work.
+
+true or false
+Hmmm... Read till the end to find out. 
+On top of those who have neither discarded nor acknowledge the model, there are also those vehemently against it. One of the perhaps “best” critiques against this model comes from Nico Cordeiro, the chief investment officer at Strix Leviathan LLC. In his article, he explains how SF is just a chameleon model.
+
+The term chameleon is used for something that seems true when first looked at, but it turns out to be nonsense when digging in deeper. In my opinion, there are three crucial factors in the article which made me question the whole SF model. Firstly from the chart below, you can see 115 years of data points for gold, and I think everyone can see that they are not in a line.
+
+gold market cap to sf
+No straight line in this chart. Image via CoinDesk 
+Secondly, as for all markets, you can't predict the price based on its historical performance. This is again a fact that has been researched numerous times and is also quite logical since if we could predict the price based on history, then all of us would be millionaires.
+
+Then lastly, maybe even the most crushing statistic of them all. Based on the SF model, in 2045, the price of ONE bitcoin would be $235,000,000,000. Yes, the price of one bitcoin. I don't even think we have to talk about this number any further since even you, who are the most bullish about Bitcoin, might understand that this will probably not happen.
+
+Happy btc money
+With one bitcoin worth $235,000,000,000 even my 0,001 BTC would make me rich🤑 
+So, is this it for the Models?
+NO! As I listened to Scott Melker's Youtube video in which he had Plan B as a guest, I got a lot more confident in his hypothesis. Yes, as seen from the previous section in this article, the model might not be completely accurate and can have some flaws, but that's just how it is. Try to tell me one model that has ever predicted an asset's price accurately over the long run. That's right, you can't. That is because markets can't be predicted.
+
+Okay, so why do I believe in the model? Well, as seen before, it has been able to predict the price whether it was a coincidence or not. I also think that the fundamental value of scarcity is there and that the SF model could be accurate in the growth phases of bitcoin, so at least until bitcoin reaches the value where it starts to stabilize. Because if you think about bitcoin, it is its scarcity that makes it attractive. That is why we want to use it as a hedge for inflation.
+
+inflation
+Inflation decreases the value of a dollar and in theory BTC could be a hedge for that. 
+We can also see that the adoption of bitcoin has increased tremendously, and many hedge funds are thinking - or have already - about investing in bitcoin. This supports the fact that Bitcoin is in its growth phase. I believe it will continue to follow the SF price because of its flow.
+
+When Bitcoin grows and many more start using it as an asset to HODL, the supply will be limited, but the demand will remain. This will force those who want bitcoin to purchase it from someone else since there is no other way. Yes, you could start mining, but then again, it has a high cost of entry, it takes a long time to become profitable, when more people mine, your chances of making money decrease, and it will take too long for, for example, hedge funds to gain a position they are comfortable with.
+
+Then at some point, I think we will reach the price where Bitcoin starts acting more like gold now does. After that, we won't see huge swings, and I do not believe that halvings will play an as important part as they do now. When Bitcoins market cap reaches over a certain point - which I can't calculate - there won't be enough money to push it up although the SF value increases, and that will be the point when Bitcoin and SF part ways.
+
+supply demand
+High demand + low supply = TO THE MOON 
+Hopefully, some of you understood what I was trying to explain, although I'm no financial expert and can't provide you with any approximate numbers. But the main point was that Bitcoins scarcity is its value and that a limited supply + increasing demand + impossible to increase flow = higher price.
+
+Current Market Conditions
+Before wrapping this up, I wanted to quickly go back to Scott Melkers Youtube video, which I already talked about, since there Plan B explained where he believed we are now and where we are going. The video came out on the 20th of May, and there he explained that according to his on-chain analysis, this cycle is not over yet. Unfortunately, he couldn't tell what he used to make this analysis, but he gave us some price predictions.
+
+Plan B believes that with the current market sentiment, we could go as high as $400-500k and then see a drop back to $100-200k. He believes that if we start moving up, then FOMO will drive the price up until fear pushes it back down. He explained that the money would come from increasing adoption from institutions and also retail investors. Although Plan B believes in his bullish predictions, he also said a few important things to remember:
+
+Only invest in bitcoin what you are willing to lose, which makes sense because it is a risky asset.
+Don't take his models too seriously; he thinks you should take it more like an estimated average target and not an accurate price prediction.
+He believes that there will be one big battle between BTC and governments that can influence the market and further push it away from his model.
+Conclusion
+After reading this article, you might have very mixed feelings about these models and whether to believe them or not, and that is precisely how I felt, too, after doing all this research. There is clearly something accurate, and it would be highly unlikely that everything Plan B has said is nonsense and just based on coincidence. But on the other hand, we have those who have proved it wrong with some solid facts.
+
+So in these mixed feelings, I would suggest to again, as always, keep your head cool and not make any moves just because of one model. It is great to see these bullish predictions, and it might be tempting to believe the most bullish scenario, but you have to think rationally and do your own research. Bitcoin is still a young asset, and we need to further study it and see how it evolves and how we evolve with it.
+
+The best thing to do if you believe in bitcoin is HODL, and look at your portfolio in 10 years and see what has happened.We humans have feelings and we’re programmed to respond to them in certain ways. If we’re scared and feel that we might be in danger then your brain will tell you to run and flee. On the contrary, if we’re happy doing something, then we’re bound to do it again. Furthermore, if we’re jealous, then doing the same thing the person that made us jealous did is on our bucket list. These are just a few examples of what 99% of us feel in certain situations and it’s simply because of our human nature.
+
+Now because we truly are this predictable it might result in opportunities if we can ourselves avoid these programmed solutions and also see when others are acting according to them. Often times people buy into some asset, whether it be cryptos or stocks, with hopes of becoming rich. We believe in this because others have made a fortune from doing so. We’re jealous of the person who bought $8000 worth of Shiba Inu a year ago and is now sitting on over $5 billion, we want that too. Then when we do get lucky and make some money, we feel a wave of happiness like never before. This makes us confident and we might purchase the next potential asset or maybe add some more of the previous one. However, when the price starts to plummet all the feelings of happiness are overtaken by fear and panic. Our brains tell us to sell and get the f*** out of there. So, we sell the holdings just to discover that we perfectly managed to buy at the top and sell at the bottom. Just like we planned it, right?
+
+Are We Truly This Predictable?
+The introduction is a simplification of some aspects of human psychology but I think you’re lying if you say that the example above doesn’t sound familiar. I would be lying if I didn’t say that buying some Dogecoin, Shiba Inu, or even Floki Inu hasn't crossed my mind. Although I know that all these meme coins are huge risks with no fundamental value, I’m still surprised by the urge to buy when reading about the previously mentioned billionaire Shiba investor. I know that buying those types of assets goes completely against my investing thesis but sometimes feelings can override that, and I also know is that I’m not alone in these feelings. Why I know others also feel the same way is because:
+
+I’ve seen it first-hand. Friends buying into shit coins in hopes of becoming billionaires.
+Look at what happened to many small meme coins when one of the big memes pumped. Loads of retail investors went looking for the next big thing. 
+Doge Shiba Baby
+Can't keep count how many times I've heard people wanting to buy into these meme coins. And yes, that's always after a 100x pump. 
+Another example where irrational thinking sometimes takes over is when positive news of a certain project comes out. Often times people flood the project and buy like crazy, especially if it includes some famous companies or people, until they take a second look and realize that either the project itself isn’t that good or maybe the news isn’t that great after all. If you haven’t felt these feelings I’m surprised.
+
+However, by looking at the charts I can prove to you that many others do have these feelings. One notable example is from the price action of Flow. When Flow announced a partnership with Google (a big famous company) on 14th of September, 2021 the price rallied from roughly $20 to a high of 23.75$. However, the price after that started to gradually decline only to hit the same price where it started in a couple of days. The decline continued, and the price of Flow is currently at just under $14. I’m not saying that the recent price action is necessarily linked to the news announcement but at least the price action immediately after the top was caused by people who quickly realized that while Flow might do great things it certainly isn’t the greatest investment due to its aggressive vesting schedule. I do want to point out that I’m not saying that all news events are overreacted to, I’m just saying that you have to be careful not to let emotions take over.
+
+Flow Price Chart
+Here you can see the price chart of Flow zoomed in on the above mentioned example. Image via CoinMarketCap. 
+So yes, I would say that we’re extremely predictable creatures. A further example of this is from technical analysis. Have you ever really thought about why technical analysis can work and what it’s based on? Well, many patterns are based on human behavior in certain situations, often caused by our emotions. We tend to respond certainly to different price actions and that’s the basis for many technical analysis indicators and patterns. I’m sure you’ve heard of FOMO (fear of missing out). This is something whales take advantage of when they want to sell. They push the price up to attract newcomers who are afraid of missing out on all the gains. Then once those newcomers enter the whales start dumping their holdings and before even realizing what has happened the retail investor has a return of negative 25% while the whales successfully dumped their holdings to these retail investors at the peak. This is partly what the Wyckoff method is about, and I suggest you watch Guy’s video on it or read this article about it.
+
+How to Take Advantage of This
+There’s a lot of ways to take advantage of sentiment analysis, both for long-term and short-term investors. We all know that cryptocurrencies have extremely strong cycles which can result in huge gains if you find a way to buy at the bottom and sell at the top. Even for long term hodlers it’s a good idea to do some analysis and sometimes trim your exposure to the markets in order to then buy the dip. To do this, to measure the interest/feelings towards cryptocurrencies, there are many tools.
+
+StocksCrashingPanic
+Make profit of other people's emotions. 
+First, we have the Fear & Greed Index which you can find from this link. As you can read from their own introduction it measures people’s emotions and sentiment. If you scroll further down the page and look at the 1-year chart you see how the numbers fluctuate. Then if we compare those to Bitcoin’s chart, we do see that longer periods of high values in the Fear & Greed Index tend to cause a correction. However, you might also be criticizing the indicator since it most definitely isn’t perfect, which is why you might want to combine it with other forms of sentiment analysis in order to get a more complete picture. I’m going to list a few methods and tools to use when doing sentiment analysis, both for long-term investors and short-term investors.
+
+ FTX Inline 
+
+Google Trends
+To continue with something for our long-term hodlers to spot the top with you can use Google trends. This service provides you the traffic to certain keywords, for example Bitcoin or Cryptocurrency. How you can use this to your advantage is by assessing when the traffic is starting to hit its peak. Guy on Coin Bureau’s YouTube channel often refers to this tactic as a good way to spot the top. He actually has a whole video on how to spot the top, check it out here. That’s because when the search volumes surge it often means retail investors are piling in due to FOMO. Perhaps they heard their friend bragging about gains made with Bitcoin and other cryptocurrencies, which causes them to buy regardless of the price, they just want to make money.
+
+Google Trends Cryptocurrency
+Here's a look for the keyword cryptocurrency. As you can see we're already quite high. Image via Google Trends. 
+Another way of “manually” doing this same thing is just by listening. I’m sure many of you have friends or family who are completely uninterested in cryptocurrencies. If these people start talking about cryptos and potentially buying into them, it might be time for you to sell your coins to them. Now you might be wondering why you should be exiting when masses are flooding into the market and that’s because those who enter are newbies while those who exit are often big whales and institutions. There’s a saying of this originating from the stock market and applied to Bitcoin it would go something like this, “When your cab driver starts talking about Bitcoin, it’s time to sell”.
+
+Bitcoin Bull & Bear Index
+A common way to measure sentiment around something in today's digital world is by looking at social media sites, and that’s exactly what this indicator does. This indicator found on Augemento.ai gathers data from social media sites to form a score of 0 to 1 based on how positive the content out there is. This indicator includes data from Reddit, Twitter and the BitcoinTalk forum.
+
+Bitcoin Bull Bear Index
+Looking at this too the sentiment seems to be quite high. Image via Augmento.io. 
+Now, looking at the picture above you can see that it’s not perfect by any means. However, as with every form of analysis you can’t rely on just one. It can’t be denied that this indicator does have a way of indicating certain price movements and when you take a closer look you might recognize that often the sentiment turns negative before the price starts falling. This can partly be explained by the previously mentioned newbies piling into the market at the top.
+
+CryptoRadar
+Another simple to use and easy to interpret sentiment analysis tool is CryptoRadar by Bison. This analyses Tweets on Bitcoin, Ethereum, Litecoin, Bitcoin Cash, Uniswap, and Chainlink. Again, this is a simple tool so don’t except too much of it. However, when you combine a few of these easy tools you’ll get a good overview of the mood surrounding the whole space.
+
+Bison Cryptoradar
+Here's a look at Cryptoradar. Image via Bison 
+How you interpret the radar is by looking at where the logo is situated. The more to the right the better, indicating more tweets about the project.
+
+LunarCrush
+The above-mentioned methods were heavily concentrated on Bitcoin and also quite simple. LunarCrush is a complete platform supporting sentiment analysis on a wide range of altcoins, over 2000 in fact. The way LunarCrush works is by analyzing activity on social media sites to then give them their custom scores, Galaxy Score and AltRank.
+
+AltRank measures 4 different things:
+
+Market volume – based on reputable exchanges
+Social volume – volume from unique sites
+Percent change versus Bitcoin – is it outperforming Bitcoin
+Social score – total social volume
+Based on these four criteria a crypto gets a ranking where 1 is the best. How you can use this data is by looking at coins with a gradually increasing ranking. Simply picking number 1 isn’t the best choice since the recent price action plays such a huge role, which means if a crypto spikes for a short while it will briefly also push up the AltRank, however, that doesn’t mean it’s sustainable.
+
+Lunarcrush Altrank
+Cryptos sorted by Alrank. Image via LunarCrush. 
+Galaxy Score is also derived from 4 different measures:
+
+Price score – calculated from a moving average
+Social score – based on bullish and bearish social updates
+Social impact – based on social volume/interaction/impact
+Correlation rank – an algorithm determines how much the price correlates with social sentiment
+While the Galaxy Score also includes the price action it’s less impacted by that since it’s calculated using a moving average. Therefore, the Galaxy Score better measures the social sentiment which is why it’s something worth keeping an eye on. The Galaxy Score gives a value of 0 to 100 where 100 is the best.
+
+Lunarcrush Galaxy Score
+Cryptos sorted by Galaxy Score. Image via Lunarcrush. 
+When using LunarCrush I would focus on the Galaxy Score since I think it gives a better opportunity to find good altcoins before they moon. Also, on top of both the AltRank and Galaxy Score LunarCrush offers more, such as the amount of social engagement, social media posts, influencer tracking, and much more. You can even earn LunarCrush’s native token LUNR for using the service. And hey, almost forgot, LunarCrush is completely free, you just have to make an account. However, to get access to more data you need to purchase LUNR tokens.
+
+ Tik Tok Inline 
+
+Santiment
+Just like LunarCrush Santiment is a complete platform with a wide range of different analytics and metrics. What differentiates these two is that Santiment doesn’t have any of their own proprietary scores or rankings, but rather they’re just a tool for “raw” data. This data includes social data, price data, and even on-chain data.
+
+Sanbase Studio
+Take a look at Sanbase Studio, as you can see they offer much more than just sentiment analysis. Image via Santiment. 
+When using Santiment for research you’ll be using their Sanbase, that’s where you’ll find everything. On top of that they provide an API service for developers. What I like about Sanbase is their charting where you can compare price charts with social volume. On top of that you can do keyword scanning similar to what Google Trends allows you to do. When it comes to pricing, you’ll get everything for free except for the most recent data. Therefore, if you want to use it for short-term trading, you’re going to have to purchase the Pro plan for $49 a month. 
+
+CryptoMood
+This is another complete platform and there were a few reasons why I wanted to bring it up. However, first I have to say that while there is a free plan available, you’ll have to pay $4.50 a month if you truly want to get some advantages out of it. So, if you’re not looking to pay anything you can skip to the conclusion.
+
+Cryptomood App
+Maybe I should too download and try the app, the price isn't that bad, and I like checking crypto stuff on the go whenever I have time. Image via CryptoMood 
+The reasons I wanted to bring up CryptoMood are their mobile app and their huge database. So, if you’re someone who prefers to do everything on their phone or likes to check cryptos and do some analysis whenever you have time then CryptoMood is for you. I haven’t myself used the application but from what I’ve read it seems like the real deal. They use a huge database looking at data from over 50,000 sources, and they even have a partnership with Santiment. On top of that, I see a great benefit in using their news aggregator to read yourself and determine the mood in recent news. And to make it easy for you, you don’t have to read whole articles since they provide summaries.
+
+Conclusion
+We are all influenced by emotions and that’s natural. It’s also something which is necessary to keep the markets going. Yes, sometimes emotions cause extreme market moves which might seem intimidating. However, as Guy likes to point out, you need to look at the bigger picture, both when the price goes up and especially when the price goes down.
+
+You need to analyze whether price movements truly are reasonable or is it just some FOMO or FUD. When you see that big drop, you don’t have to think it’s the end of the world. Look at the long-term sentiment around the project or market, what has happened. Is it a short drop from which we’ll likely keep going up? Did we really see the top? Simply find the answers and then make sound decisions on whether it is an overreaction and a great time to buy the dip. And the same goes the other way around. When you see a big pump on some positive news take some time to truly analyze what happened and see if it could really start a greater trend shift or is it just people not knowing what they’re doing and buying out of FOMO. You don’t want to be the guy buying at the top and selling at the bottom.
+
+And hopefully after reading this guide you won't be that guy.The cryptocurrency markets have become one of the most exciting places for traders, and more are entering crypto trading every single day. If you’ve landed here I presume you’re looking to join their ranks too. It’s good because this is the right place for you to learn everything you need to begin trading popular cryptocurrencies like Bitcoin, Ethereum, and Cardano today.
+
+While this is going to be a fairly long piece, it will still only be going into the basics of crypto trading. It will give you everything you need as a beginning in crypto trading, and if you’re interested in a quick start you could be making your first trade later today.
+
+If you don’t have time to read the entire piece just now though here’s the tldr;
+
+Find an exchange to trade on and register for an account;
+Complete any verification requirements for the exchange;
+Fund the account;
+Begin trading.
+Crypto Trading
+Get started crypto trading today. 
+You’ll also want to have an external wallet to transfer your cryptocurrencies to when done trading. For the highest level of safety we always recommend choosing a hardware wallet like the Ledger, Trezor, or Opolo. Other options for wallets include desktop wallets like the Exodus, or online wallets such as MetaMask.
+
+Choosing a Crypto Exchange for Trading
+Once you’re ready to start trading cryptocurrencies your first job will be to find a suitable exchange. That might not be as easy as it sounds because there are different types of exchanges to consider and different regulations based on where you live.
+
+The first consideration to be made is whether you want to use a centralized exchange (CEX) or a decentralized exchange (DEX). For beginners we do recommend using a centralized exchange. It will be easier to get started, and they will provide you with more tools and support. Decentralized exchanges are great and we love them, but they aren’t really suitable for beginning traders in our opinion. Plus the decentralized exchange will limit you to trading only the coins on the chain that’s supported by the DEX (Ethereum, Binance Smart Chain, etc).
+
+There are a huge number of cryptocurrency exchanges to choose from, and you’ll want to read through their terms and conditions to get a feel for which one will support your own trading best. Some have a wider selection of cryptocurrencies, some have better fees, and some have better support.
+
+CryptoExchanges
+You have so many exchange choices. 
+The top three exchanges at the time of writing are Binance, Coinbase Pro, and Huobi. All three are very solid exchanges. Binance is going to give you a greater selection of coins for trading, as well as much better trading conditions. Coinbase Pro (and the even easier Coinbase) isn’t as great when it comes to selection and fees, but it is easier to use. And those looking for the simplest way to purchase and trade cryptocurrencies can get started with a basic Coinbase account and later transition to Coinbase Pro.
+
+Other potential exchanges include Kraken, BitMex, Poloniex, and Gemini.
+
+Note that many exchanges remain crypto-only, meaning you are unable to deposit or withdraw fiat cash from the exchange.
+
+Cryptocurrency Exchange vs Cryptocurrency Broker
+While many people use the terms “broker” and “exchange” interchangeably, the truth is that there’s some difference between the two that’s important to understand.
+
+Broker vs Exchange
+A broker is not the same as an exchange. Image via YouTube. 
+A broker is a person or company that acts as an intermediary in financial transactions. For their assistance in brokering sales and purchases they receive a commission. The well known Coinbase is a broker, although their Coinbase Pro platform is an exchange. Broker’s fees are typically quite high when compared with an exchange.
+
+The upside is that cryptocurrency brokers provide a more suitable environment for those just getting started in the purchase and trading of cryptocurrencies. They offer a means to purchase crypto with fiat currency, and to convert back from crypto to fiat as well. Prices are set by the broker so there’s no slippage involved and buyers know exactly what price they will receive when buying and selling. Brokers can also provide additional services such as cold storage for large amounts of cryptocurrency.
+
+In contrast an exchange connects buyers and sellers with one another using an order book that contains the orders of all the users of the exchange, and often from outside sources as well. Because the exchange is simply connecting buyers and sellers they receive a much smaller fee for their services when compared with brokers. The exchange is simply the platform where buyers and sellers get together.
+
+The downside to this is that slippage can occur in fast moving markets, which means buyers and sellers might not get the price they expected.
+
+Cryptocurrency exchanges are suitable platforms for more advanced holders and traders of cryptocurrencies who want to take advantage of price fluctuations through speculation, hoping to make gains and to avoid losses.
+
+Indirect Solutions for Crypto Trading
+While things are getting better in terms of access and removing restrictions on cryptocurrency exchanges, there will likely still be some of you out there who will either have difficulty dealing with a traditional centralized exchange, or simply don’t want to deal with one of these exchanges. Fortunately there are still some options that you could explore.
+
+Exchange Alternatives
+There are plenty of cryptocurrency exchange alternatives to choose from. 
+If you still want to buy actual cryptocurrency you could try Square’s Cash App, which is a particularly good way to avoid using Coinbase if you are just interested in buying and selling Bitcoin. This is also a good option if you need to buy some Bitcoin to deposit to another exchange for trading.
+
+Some other options for very basic crypto trading include Robinhood and Paypal. The downside to these options is that neither allow you to withdraw crypto from their platform, and you’ll only find a handful of the largest cryptocurrencies to trade.
+
+The upside to using Robinhood is they also offer access to equity markets, meaning you can take an even more indirect approach to crypto trading through the various Greyscale Trust products, or through trading stocks that are related to crypto, such as Coinbase, Bakkt, or Riot Blockchain.
+
+There are also swap services out there like Changelly and SimpleSwap which are great for a quick exchange, but not really suitable for crypto trading due to the high fees charged on each transaction. They’re convenient for sure, but you do pay for that convenience.
+
+The Logical Trading Progression
+Many new traders go through a typical logical progression with cryptocurrencies. They start with something simple like Cash App or Coinbase to buy and trade a small number of cryptocurrencies (Coinbase has gotten much better for this). Once they are comfortable with these easy entry points to crypto trading they begin to look into the full featured exchanges such as Binance and Coinbase Pro. This gives them a far greater selection of crypto assets, as well as introducing them to technical analysis tools and charting tools.
+
+Cryptocurrency Selection
+As you advance you'll get access to a broader group of cryptocurrencies and analysis tools. 
+While that’s as far as some traders go, others continue exploring and move on to the centralized exchanges such as Uniswap or PancakeSwap. In addition to using these decentralized exchanges this is also the level at which traders begin looking into yield farming or the use of leverage and derivatives in their trading.
+
+This logical progression lets you gradually build on learned skills, and taking these steps out of order could lead to problems, so try not to run before you can walk.
+
+Another good idea along the way is to educate yourself about other areas of the crypto investing universe such as mining and staking. And of course you’ll want to educate yourself on the basics of how blockchains work and how smart contracts work, as well as other technical aspects of blockchain operations. Of course you can do all of that here at the Coin Bureau blog and over at our YouTube channel.
+
+Learn about Market Order Types
+If you’re starting out with a broker like Coinbase rather than an exchange you won’t need to know about order types, but once you move to Coinbase Pro, Binance, or some other exchange knowing the different order types will become important for risk management and order management.
+
+The most basic order type is the market order. With this type of order you are simply buying or selling at the current market price. But there are other order types that allow you to fine tune your entries and exits. The most common is the limit order, which allows you to specify the price you buy or sell. So Bitcoin might be currently selling for $40,000, however with a limit order you can specify that your order is only executed if the price is $39,000. This way you don’t have to constantly monitor the market, but can still get a better price.
+
+Another commonly used order type is the stop-loss order. This is a conditional order that protects you from suffering a loss. The stop order is a type of limit order that is placed below the current price or your entry price to protect from sharp drops in price that could lead to large losses. The opposite order type is a take profit limit order. This type of limit order is placed above your entry price at a target level that matches the amount of profit you’d like from the trade.
+
+Stop Loss
+A great way to protect your account from huge losses. 
+These various order types can help protect you from the inherent volatility of the crypto markets.
+
+Learn about Fundamental Analysis
+Fundamental analysis is one method for determining the actual value of an asset. In fundamental analysis the financial and economic factors of the asset are studied to reach what’s considered a fair value for the asset. This analysis can be very broad and takes in such things as the broad economy, conditions within the industry, and the state of the company or project, which can even include the strength of the brand and the management.
+
+The ultimate goal of fundamental analysis is to determine the fair value of the asset to see if it is currently overvalued or undervalued. Then the trader or investor can use that information in their investing decisions.
+
+Fundamental Analysis
+If you want to find the true value of an asset fundamental analysis in invaluable. 
+When it comes to performing fundamental analysis on cryptocurrencies the analysis will include the emerging field of on-chain metrics. This includes the number of holders, the top holders, how many addresses are on-chain, the growth of the blockchain, hash rate, and many other metrics. Using all of the available data about the project the analyst can determine the strength of the network and the potential value of the project.
+
+Fundamental analysis is widely used in equity and currency markets, but isn’t as useful for cryptocurrencies since the asset class is so new. There’s currently no standardized measures that can be used to determine the market value of projects, plus the speculative nature of cryptocurrencies often makes fundamental analysis unhelpful in determining the market movements of a coin or token.
+
+In time the market will mature and then fundamental analysis will be far more useful.
+
+Learn about Technical Analysis
+One of the top methods used to determine potentially profitable entry and exits points for cryptocurrencies is crypto technical analysis. This is the analysis of the past price action of an asset to identify possible patterns, such as support and resistance areas, current trends, and potential trend reversals, among other things.
+
+Technical analysis has a long history in fiat currency “forex” markets, and in commodity and equity trading as well. It is well tested, and many of the indicators and methods used can increase the success rate and profitability of trades. Technical analysis is based on the principle that certain patterns in price repeat themselves. While it uses price and volume it is ultimately based on trader psychology, as certain levels tend to create specific reactions from traders.
+
+Technical Analysis
+Price action informs the technical trader. 
+The study of technical analysis can be a life-long endeavor, and there are entire websites and massive books dedicated solely to technical analysis. As a starting point you might want to look into the basics such as support and resistance levels, trend lines, and moving averages.
+
+More advanced technical analysis indicators include the relative strength index (RSI), moving average convergence divergence (MACD), Bollinger Bands, Fibonacci Retracements, and others. Some of the most popular trading methodologies include a number of these indicators. These methodologies include Dow Theory, Elliott Wave Theory, and the Wyckoff Method.
+
+Technical analysis is most often thought of as a way to predict price movements, but it is also a useful framework for risk management. Because technical analysis provides a model for analyzing markets it allows the trader to make their trading more measurable and defined. This allows a trader to more accurately analyze their own performance, and to include risk management strategies as a part of their overall trading strategy.
+
+Types of Crypto Traders
+It’s always best to have a trading strategy when approaching the markets. Your trading strategy is the plan you follow when executing your trades. It can be simple or it can be complex, but there’s no correct method. The best method is always one that aligns with the trader’s own goals, risk tolerance, and preferences.
+
+Type of Trader
+You won't really know what type of trader you are until you start actually trading. 
+No matter what method you decide to follow it is crucial that you do establish a trading plan. And don’t worry when starting out. Your trading plan will likely be simple, but it will also evolve over time. And if you come to find that it doesn’t suit your trading style you can always change it later. The important thing is that it will establish some clear guidelines and goals, and it will keep you from making emotional trades or trades based on your “gut feeling”.
+
+In general the trading plan includes what you’re going to trade, how you’re going to trade it, and what your entry and exits points will be. In a larger context most trading plans also fall under one of the following trading styles: Day Trading, Swing Trading, Position Trading, and Scalping.
+
+Day Trading
+Day trading is a popular trading strategy that involves entering and exiting trades on the same day. The term comes from traditional equity markets which are only open for set hours each day. A day trader closes all their positions by the end of the trading day and keeps no positions open overnight.
+
+Cryptocurrency markets are a bit different from traditional markets in that they don’t close – ever. You can trade cryptocurrencies 24 hours a day, 7 days a week, and 365 days out of the year. Yet trading within the context of day trading is still useful for cryptocurrency traders. With this style a trader would keep to a set trading schedule and close out all their trades by the end of their trading day, whether that’s 5pm or midnight.
+
+Day Tradijng
+If you didn't know about day trading before, you do now. 
+Day trading relies on technical analysis to determine entry and exit points. Profits may be smaller since trades are closed each day, but this also allows for more diversity in the set of assets you trade. However some day traders do choose to focus on a limited number of assets and stick to those exclusively. There’s a benefit to this as the trader can become intimately familiar with the price action of a limited set of assets.
+
+This style is popular because it provides a good amount of action, but also limits stress for traders since they don’t have to worry about waking up to surprise moves in positions held overnight. That can be particularly helpful in the volatile cryptocurrency markets.
+
+Swing Trading
+Swing trading focuses more on longer term trends in the markets, and positions can be held for days or even up to several weeks. The goal is to identify undervalued assets that are just beginning to see an increase in buying momentum and upward price movement. The swing trader looks to get into the asset as it trends higher, and then sell at a later date for a profit.
+
+As with day trading technical analysis is widely used, but because the strategy is focused on a longer time frame fundamental analysis might also be used. For example, a project that has an upcoming large code base change, or the launch of a mainnet might be expected to see a longer term trend in their upward price momentum and could be good picks for swing traders.
+
+Swing Trading
+Swing traders look to take advantage of larger moves over a longer time frame. 
+Swing trading tends to be more beginner friendly because it doesn’t feature the fast-pace and stress of day trading and other short-term trading strategies. Swing trading allows a trader to take their time and make more informed trading decisions.
+
+Position Trading
+Position trading is one step away from investing in that it is a long-term strategy in which positions are generally held for months at a time to capture a long-term price trend in an asset. Position traders may not strictly be hodlers, but they are similar to investors given their long-term horizon.
+
+What specifically distinguishes the position trader from the swing trader is the rationale behind the trade decision. Position traders are most concerned with long term trends in the price of an asset. Swing traders might not be as concerned with the long term trend, and are willing to trade counter-trend for a week or more to capture a pullback or bounce in the price of an asset.
+
+Because of the long time horizon favored by position traders it isn’t unusual for them to rely more heavily on fundamental analysis. That’s because their longer trade window allows them the luxury of watching fundamental events play out. That’s not to say that they don’t also rely on technical analysis. Because they are working on the assumption of a continued trend the use of technical indicators can be useful in identifying potential trend reversals.
+
+Position Trading
+Position traders take advantage of superior risk / reward ratios. 
+Position trading also tends to be a good strategy for beginning traders as the longer time horizon gives them plenty of time for analysis and trade decisions.
+
+Scalping
+The aforementioned strategies, even day trading, use a longer time frame, while scalping is confined to very short, well timed traders. Scalpers might look to make many smaller profits by getting into and out of trades in a matter of minutes, or even seconds.
+
+They use technical analysis almost exclusively, and can also use more advanced techniques like arbitrage and exploiting bid-ask spreads. Because of the short time frame the profit on each trade is necessarily small, but scalpers might make dozens of trades a day. Automated scalping systems can be in and out of trades in seconds and place hundreds of trades daily.
+
+Scalping
+Scalping is the most active of the trading styles. 
+Scalping is in no way suitable for beginning traders. It requires an in-depth understanding of the markets, the trading platform, technical analysis, order types, order books, and more. However for more experienced traders who have all this knowledge, scalping can be an excellent strategy that yields excellent profits.
+
+Other very Important Crypto Trading Concerns
+With the information above you could get started in your crypto trading journey. However there’s much more to learn yet if you want to get into trading with a good level of preparation. Keep reading to help set yourself up for success.
+
+Securing Your Trading Account
+Hacking is a real thing for crypto traders, and if that happens to you you’ll lose everything. Recovering coins from a hacked account rarely happens, so keeping your account and wallet secured is super important. Follow the basics of using a secure password, 2-factor authentication, and other security practices.
+
+Trading Safety
+You can never be too safe with online trading. Image via Pinterest.ca 
+If you are using Coinbase, that includes turning on whitelisting to make it more difficult for a hacker if they try to access your account. For external wallets it means backing up and encrypting your wallet, and keeping a secure offline copy of your seed phrase to recover your wallet if necessary. Finally, make sure to secure your passwords by using a password manager.
+
+Beginners should avoid Margin and Leverage
+Margin trading involves trading using funds that are borrowed from a third party. In traditional markets this is usually the broker. In cryptocurrency markets margin might be provided by the exchange, or it can come from other exchange users. The use of margin in trading amplifies the results obtained – both profits and losses. Using margin gives traders access to more capital than they might have otherwise, and is also considered an efficient means for trading since the same sized position can be opened with much less capital.
+
+Leverage is often mentioned together with margin, and they are different but related. Margin is the amount of capital provided by the trader and is expressed in percentage terms, such as 10% margin or 2% margin. Leverage is how much the position is amplified and is expressed in terms of 2x or 10x.
+
+So, 10x leverage amplifies a trade by 10 times and would be accomplished by putting up 10% margin.
+
+Margin Trading Leverage
+Leverage is a two-edged sword. 
+The potential profits of using margin and leverage often have greedy traders watering at the mouth, but leverage amplifies losses just as much as profits. This means that even though a $100 profit becomes $1,000 when using 10x leverage, the same is true for a loss. That can quickly wipe out an account, particularly in the volatile and fast-moving cryptocurrency markets.
+
+Derivatives are not the same as Actual Cryptocurrenies
+Now that the cryptocurrency market is growing up there are a number of different derivatives that have become available. It’s important to understand that these derivatives are not the same as the actual underlying cryptocurrencies. A Bitcoin futures contract or option is very different from owning actual Bitcoin. Options and futures come with their own specific risks that make them unsuitable for beginning traders.
+
+Cryptocurrencies are also becoming increasingly available from CFD brokers. These CFDs, or contracts for difference, are only based on the price of the underlying crypto. When you buy a CFD you do not own the underlying cryptocurrency. They can be fine for speculating on price, but it’s important to know the difference between an actual cryptocurrency exchange, where you are buying cryptocurrencies, and a CFD broker where you are purchasing a derivative product that is only speculating on price action.
+
+Cryptocurrencies are Taxable Assets
+In most jurisdictions cryptocurrencies are now considered to be taxable assets, and there are tax implications for trading cryptocurrencies. For one thing, different coins aren’t necessarily considered to be “like-king assets”, which can lead to surprises when you file your taxes. Thankfully there are now crypto tax services that track your crypto gains and losses from trading and help you with your tax filing.
+
+On Cryptocurrency Mining
+Cryptocurrency mining or staking is a great way to get involved in cryptocurrencies. However it isn’t so much trading as it is investing.
+
+Crypto Mining
+Crypto mining can help provide funds for your trading activity. 
+It is relevant to talk about in this crypto trading piece however because staking coins need to be acquired from an exchange, and mining profits can only be turned into fiat currency or other cryptocurrencies by using an exchange – which is trading.
+
+Conclusion
+So, that’s quite a bit to digest, and yet it’s really only scratched the surface of crypto trading. We could go into far more depth regarding both fundamental and technical analysis. An exploration of exchanges and their strengths and weaknesses wouldn’t go amiss either, and we’ve actually done that already for Binance and KuCoin so you can check those out before you start trading.
+
+Other future topics could focus on trading strategies, risk management, trading software, and other aspects of trading in cryptocurrencies. You could also head over to our YouTube channel and subscribe. Guy does a great job in presenting the pros and cons of many different cryptocurrencies that you might be interested in trading.
+
+After all this our best advice is just to choose an exchange and start trading. Start researching different coins and tokens, start learning more about trading strategies, and just start doing trades. Will you make a mistake because of your inexperience? Probably. But that’s all part of the learning process. By the 10th trade you’ll feel more comfortable, and by the 100th trade you’ll feel like a trading expert.
+
+So get out there and get started crypto trading!Since the creation of cryptocurrencies, their returns have been amazing. If you entered before the last bull market or, even better, the one before that, then you will have made a ton of money. These huge returns from the crypto markets have caught the attention of many people.
+
+Many have started to wonder whether they too could become millionaires by just investing a few thousand into the crypto markets. But the thing that stops many is the lack of knowledge and the fear of losing 50-90 per cent when the next bear market hits. So what do people do?
+
+Well, many have started to look for crypto-related equities. Many feel that they offer relatively good exposure to the crypto market while still being a lower-risk investment than if you simply buy cryptocurrencies. It can also be easier to manage your equity, taxes, and other legal obligations if you do not know anything about how your country views cryptos.
+
+In this article, we will take a look at some crypto-related equities and see if they truly are lower-risk investments and whether you should consider trading and investing in them.
+
+Crypto-related Equities
+The first companies that many think of when talking about crypto-related equities are probably Tesla, Coinbase, and Microstrategy. Many would potentially categorize these as crypto-related equities, and yes, to some extent, they are all related to cryptocurrencies, but it is important to see the difference between them.
+
+Bitcoin Tesla
+Tesla has become one company that is often associated with cryptos and Bitcoin 
+Tesla, which is best known for its electric cars, is not necessarily the best investment if you are looking to gain significant exposure to the crypto market. The reason is that although Tesla seemed to move the way Bitcoin moved (called correlation) when it first announced its $1.5 billion Bitcoin purchase, this is still a relatively small amount compared to their other businesses. Tesla's stock will not be moved by the price action of Bitcoin but rather by what happens in their primary business consisting of cars and batteries.
+
+If you are looking for a company that, to some extent, mirrors the price of a cryptocurrency, then you might want to consider the company led by Michael Saylor, Microstrategy. You might have read the news that they recently passed the mark of owning over 100,000 bitcoins, which is quite a lot.
+
+MicroStrategy
+Microstrategy is a company that provides business analytics software services, so it does also have something more than just Bitcoin. However, their Bitcoin holdings are perhaps nowadays their most important thing. If you look at their market cap of $5.2 billion and compare it to their BTC holdings - which with a $40k price would be worth $4.2 billion - this leaves only a valuation of about a billion dollars for everything else that Microstrategy does, and that generated almost half a billion dollars in revenue in 2020.
+
+Naturally, the price of Bitcoin changes rapidly. So understandably, Microstrategy might be a bit undervalued since it would also be improbable that they could sell all their Bitcoins at once without causing some fear in the markets.
+
+Michael Saylor Tweet
+That's a lot more BTC than in my wallet for sure. Image via Twitter 
+As mentioned, Tesla is a company with only a small exposure to the upside of cryptos, while Microstrategy gives a far more significant exposure to the upside of Bitcoin. Now you might think that you can only benefit from the upward price movements of cryptos. But one company already mentioned could benefit from the downwards movement of crypto prices too, and that company is Coinbase.
+
+Coinbase
+Coinbase, which according to most recent statistics, is the third-largest crypto exchange, and maybe the best known for new investors, makes most of its money from trading fees. This means that as long as cryptos are traded in large volumes, and if Coinbase manages to attract new customers, then they will most definitely be a company to keep your eyes on as an investor.
+
+After Coinbase’s IPO in April, its share price has largely moved along with the crypto markets in general, which some analysts believe is entirely wrong since Coinbase’s earnings are not tied to Bitcoin’s price. Coinbase CEO Brian Armstrong also mentioned this lack of correlation in its latest earnings release. Coinbase is also the stock for which Goldman Sachs analyst Will Nance gave a buy rating and said it’s the best stock to gain exposure to the crypto markets.
+
+Coinbase
+Do you prefer Coinbase? 
+So as an overview of crypto-related equities, you need to remember that there are many different kinds. First, there are those who almost completely follow the price actions of Bitcoin and other cryptos, like Microstrategy and some mining companies. Then we have those who benefit more from the adoption and continued interest in cryptos like Coinbase. And then lastly, we have companies that have only adopted cryptos as a means of payment and maybe made a small investment in it, like Tesla.
+
+Crypto-related Equities vs Cryptocurrencies
+The easy answer to crypto equities vs actual crypto is that if you are looking for huge gains and high risk, cryptos are the answer. But if you are looking for a more modest risk and maybe don’t know how, or don’t want to go through the process of using crypto exchanges and setting up a wallet, then crypto-related equities are likely for you.
+
+Crypto-related equities with a price lightly attached to Bitcoin might also be a good diversification for your portfolio. But let’s dive in a little deeper to see what might be best for you.
+
+IPO Vs ICO
+It doesn't have to be one or the other. Try diversifying, get a bit of both. 
+First, let's consider only trading rather than long-term investments. If you only want to trade and aren't considering investing for the long-term, there are a few things worth considering. The thing with cryptos is that you've probably heard about people who have made a few hundred per cent in one week or even a single day.
+
+That sounds great, right? On the flip side, you have to remember that every time someone makes a hundred per cent, there are likely at least five people who lost just as much. You just don't know about them since they are not the ones highlighted on social media.
+
+Therefore you need to remember that when trading cryptos, the risk is very high and especially high in those small-cap coins that could potentially offer the biggest gains. On the other hand, crypto-related equities usually are fairly stable. While some do tend to follow the price action of Bitcoin, there is one key consideration with equities that is much stronger than with cryptos - fundamentals.
+
+As mentioned earlier, Microstrategy is a good example of a company that actually might be fundamentally undervalued if you believe in a rising price for Bitcoin. This offers a great opportunity for some swing trading (where you keep the asset, say a couple of days to a few months).
+
+You might purchase Microstrategy when the price of Bitcoin starts showing some signs of a bullish price movement if you want to be aggressive. Or you could be more conservative by waiting for the price of Microstrategy to start rising along with Bitcoins price. Then if the market cap of Microstrategy starts taking off more than the market cap of BTC, it might be a good time to sell.
+
+This price action can happen because Microstrategy attracts many non-professional retail traders, resulting in overreactions in both directions compared to Bitcoins price. In these situations, it is good to keep your eyes on both the market cap of BTC and the correlated company's market cap; then, when you compare that to their historical correlation, you can find good opportunities to buy and sell.
+
+Discount Graph
+Buy high, sell low, or something like that, right?
+So if you are trading crypto-related equities, then technical analysis is possibly not the best strategy since you can sometimes find better opportunities in swing trading with the information found about a company's fundamentals. For example, with Coinbase, you could analyze the trading volume of the crypto market and see if the volumes have gone up, but the price of Coinbase is down. If that happens, then you might find a good price to enter.
+
+For long-term investing, the best benefit from crypto-related equities compared to cryptocurrencies is diversification. On the other hand, a portfolio consisting of only cryptocurrencies is very high risk. If you have a family to provide for (or even just yourself), watching dips of 50-90% can make you more than nervous.
+
+Bitcoin Down
+Avoid anxiety by diversifying to assets which do not correlate with each other. 
+Suppose you believe in a world where crypto isn't everything. In that case, you might consider companies like Tesla, which can benefit a tremendous amount from being an early adopter of cryptos. And simultaneously, you own one of the world's most advanced companies when it comes to electric vehicles.
+
+So if you are looking for something to diversify your portfolio, I suggest you take an especially close look at those companies in the next section, which I've ranked as low and medium correlation to crypto markets.
+
+Low & Medium Correlated Crypto-related Equities
+An important thing to remember before you read about these companies and invest in them is that some of these equities might not benefit from crypto adoption. Indeed, some might not belong in the crypto space at all. In addition, these are also publicly traded companies, and their prices can vary a lot from their intrinsic value, so even when the company succeeds, it might not guarantee stock gains. Therefore you must do your own research before investing in any company.
+
+Tesla - Amazon - Apple
+Correlation to cryptos: Low (Though Tesla can mirror the price of Bitcoin at certain times)
+
+Potential benefit from cryptos: Fair-Good
+
+You might be wondering why I have added Amazon and Apple in here with Tesla, so I'll explain. As we already know, Tesla has Bought bitcoin, and with CEO Elon Musk running the show, they are more than likely to continue working with cryptocurrencies. Apple and Amazon are both huge companies that have the power to attract the most brilliant minds on the planet, and they have money to do the wildest things you could ever imagine. This will allow them to invest heavily into crypto once the timing is right.
+
+As it looks now, that time could be very soon, or even now. Amazon and Apple have both been looking for employees to join their digital currency divisions and other positions related to cryptocurrencies, which shows that they are making increasing efforts to adopt cryptocurrencies and blockchain technology. There was also a rumour that Apple bought $2.5 billion worth of BTC, but that hasn't been confirmed.
+
+Amazon Crypto Job
+Looking for a job? Image via Amazon 
+I've listed these three companies together because they are all companies where cryptos are not their primary focus. Plus, they are all excellent companies, which will not suffer catastrophically if cryptos plummet. They will probably not mirror the price of any crypto or the crypto markets in general.
+
+Crypto-related income might not be a big part of their earnings since they are all mega-cap companies with huge revenues from other sources (especially Apple and Amazon). Still, they have the resources to make good use of blockchain technology and be frontrunners in this revolution.
+
+Other names in this category are Microsoft, Alphabet, and Facebook, each of which also holds a vast amount of talent and money. In addition, Facebook has already talked about launching their own token, which shows their interest in the crypto space.
+
+Apple Bitcoin
+Will Apple integrate other cryptos or create an I-coin? 
+Twitter & Square - The Jack Dorsey Empire
+Correlation to cryptos: Twitter: Low, Square: Medium-High
+
+Potential benefit from cryptos: Twitter: Good-Great, Square: Great
+
+As most of you know, Jack Dorsey, the CEO of both the social media company Twitter and the payments company Square, is a prominent backer of Bitcoin. Dorsey is a hardcore Bitcoin fan, and he believes that the only promising cryptocurrency is BTC.
+
+Twitter is on this list because, in the latest quarterly report, Twitter CEO Jack Dorsey said he believes Bitcoin can be much more than just a currency. He was talking about implementing Bitcoin on Twitter with tip jars and super likes. He spoke of a decentralized social media platform with Bitcoin playing an increasing role in the future of Twitter.
+
+Square is a more hardcore Bitcoin player and a much more "true" crypto investment. Square bought about $230 million in BTC, first in Q4 in 2020 for $50 million and then in Q1 of 2021, after the big dip, for $170 million. Still, their crypto investments aren't their most significant crypto-related income stream.
+
+Square has a cash app that supports Bitcoin peer-to-peer transactions along with the opportunity to invest and automatically dollar-cost-average into Bitcoin. Square's recent earnings release showed that Bitcoin transactions accounted for 80% of their revenue, as reported by CNBC. Square also recently announced they are building a DeFi business using Bitcoin. This would be somewhat of a competitor to Ethereum and could be bullish for both Bitcoin and Square.
+
+Square Bitcoin
+Dorsey seems to be all in for Bitcoin 
+Between these two companies, you can see that Square is the company for you if you want more significant exposure to cryptos and if you are bullish on Bitcoin. On the other hand, Twitter could be a front runner in decentralized social media since they have the publicity and fame, which gives them an edge over other decentralized social media platforms that are starting from scratch.
+
+It is hard, though, to evaluate the potential of Twitter since we don't know what Dorsey's true plans are. The big risk with both companies is that they seem to be fully into Bitcoin and do not like, nor accept other cryptocurrencies. Many are arguing that Ethereum will overtake Bitcoin and that Bitcoin isn't suitable to be built on. If that becomes true, then, of course, that would be bad for Square and Twitter.
+
+Visa & Mastercard
+Correlation to cryptos: Low
+
+Potential benefit from cryptos: Great
+
+Both of these traditional payment processing companies are well known around the world. They are huge companies with valuations close to half a billion dollars each. The thing that makes them potential benefactors of the crypto boom is, of course, payments.
+
+Already you can find crypto cards from both companies where maybe the most well-known one is the Crypto.com Visa card. Both Visa and Mastercard are putting increasing amounts of time and resources into the crypto space, which can be seen when reading their latest news.
+
+Visa recently announced they would make it possible to pay with cryptos using all Visa cards. This would be huge for crypto adoption and would truly spark the actual use case of cryptocurrencies. Visa also said that in the first half of 2021, more than $1 billion worth of transactions were made through their crypto-related cards. The even more bullish case for both cryptos and Visa is that they also said that digital payments could potentially disrupt the $18 trillion annual consumer spending with cash and checks.
+
+Visa Crypto Card Usage
+Going strong! Image via CNBC 
+On the other hand, Mastercard announced a partnership with blockchain company R2 to develop cross-border payments, which could lead to enormous growth. Cross-border payment is one of crypto's best features since it takes so little time compared to traditional bank transfers, plus the fees are much lower.
+
+From this bullish news, you can see that cryptos are coming, and those companies who are ready will benefit from it. In my opinion, it looks like right now like Visa is the front-runner of these two payments companies but let's not forget that Mastercard is a brilliant company with no lack of resources to dive deeper into the crypto space. Mastercard's market cap is also over $100 billion smaller than Visa's, which gives them more upside potential if they succeed in adopting cryptos.
+
+Paypal
+Correlation to cryptos: Low-Medium
+
+Potential benefit from cryptos: Great
+
+Another company that stands to benefit from the increasing use of cryptos for payments is the original digital payments network Paypal. Paypal was early on in adopting cryptos and has gained many customers at the expense of not payment companies but rather exchanges. So yes, Paypal has seen an increasing activity of buying cryptos through them, and this will naturally hurt “traditional” crypto exchanges like Coinbase.
+
+The reason I think Paypal might have gained popularity among people wanting to invest in cryptos is safety. I do not mean that Coinbase isn’t safe but rather that for newbies, a well-known traditional company might sound safer than a crypto exchange that only deals with cryptos.
+
+Especially after all these stories when crypto exchanges have been huge scams and the founders have run off with all the money (Africrypt). Paypal is also suitable for those who buy and use cryptos as payments since you can do it all with just one company. Furthermore, you do not have to move your cryptos from wallets to exchanges and back.
+
+Paypal Crypto
+A big plus for Paypal is being easy and safe. Image via Paypal 
+Paypal is also a growth company with considerable talent behind its success. As a result, they can truly benefit from both increasing purchasing of cryptos as investments. Also, they can compete on crypto payments market share along with Visa, Mastercard, and Square. If you believe in the growing use of cryptocurrencies as payments, then a good diversification to all of these might not be a bad idea.
+
+IBM
+Correlation to cryptos: Low
+
+Potential benefit from cryptos: Good-Great
+
+IBM was one of the first big companies to invest heavily in blockchain technology. At the time, all their ideas and innovations sounded like something that could change the world. However, in an article from Coindesk from February 2021, it was said that the IBM blockchain is not even a thing anymore. Many people have been laid off, and only a fraction of the division is left. This was done after the blockchain division repeatedly missed revenue forecasts.
+
+Despite that, I believe that the IBM blockchain transparent supply could have a major impact on our world. For a non-technical expert like me, all that was said in their presentation linked above sounded amazing. The problem now is the increased competition in the blockchain industry. It might be that IBM has just fallen behind others like it has so many times before. On the other hand, IBM also partnered with Stellar to create the stablecoin USD Anchor, which shows that there is some use of IBM technology.
+
+IBM Blockchain
+Hopefully they get this working 
+Hopefully, IBM keeps working on their blockchain technology and makes more partnerships with cryptocurrencies. If they do this, then I believe that blockchain could become one of IBM's core income streams.
+
+Riot Blockchain
+Correlation to cryptos: High
+
+Potential benefit from cryptos: Great
+
+Riot Blockchain is a mining company, and I do not think it needs too much explaining. We all know that mining is costly and is therefore out of reach for many people. When investing in Riot Blockchain, you are doing mining without running your own mining rigs.
+
+Your earnings from this company will be linked to the performance of Bitcoin mining. The risk with Riot is that they might make bad investments in equipment or companies or do something illegal, which you wouldn’t do if you mined Bitcoin yourself. This could result in a lot of the profits going to solving unnecessary problems.
+
+On the other hand, that same argument for risk is also the great benefit from owning Riot instead of mining at home. It takes a lot of money and effort to start mining, so you can imagine how much it will take if you need to upgrade equipment continually or grow to become a larger miner.
+
+Riot Crypto Mining
+Riot keeps you up to date on their mining so that you as an owner don't miss anything. Image via Riot Blockchain 
+Riot has the resources to complete significant acquisitions by taking some debt- if needed - to scale up their mining operations. I also believe that in the future, when they get their mining setup in order and if, and when Bitcoin prices rise that they can be a solid and good dividend payer. There are also other mining companies like Marathon Patent Group, but Riot is the biggest one.
+
+Nvidia
+Correlation to cryptos: Low
+
+Potential benefit from cryptos: Great
+
+Nvidia is a well-known company for many gamers and also those who actively follow stock market news. Nvidia operates in two segments, Graphics and Compute & Networking. The important segment for cryptos is graphics which includes Nvidia's graphic processing units.
+
+Nvidia has one of the most advanced GPUs for PCs and gaming, and these were widely used to mine cryptos in late 2020 (many still use them). However, Nvidia noticed the increased use for mining and made an upgrade which lowered the performance of their gaming GPUs if used for mining.
+
+This might sound bad, and as if Nvidia doesn't support cryptos, but the reason was not that. They had to restrict the use for mining because their core customers, gamers, couldn't get their hands on these GPUs because miners bought them all up.
+
+Then in February of 2021, Nvidia released a new processor made specifically for mining. In the first quarter of 2021, they said that crypto mining had generated $150 million in revenue, as stated in this CNBC article. That seems like a small number compared to their core business which generated $2.76 billion in revenue. Still, such a quick rise of revenue and a $400 million crypto-related revenue forecast for the second quarter shows how much potential there is.
+
+Nvidia Crypto
+You might not understand the technicalities but try to understand this. This will make them A LOT of money. Image via Nvidia 
+Nvidia could have the potential to become the number one mining equipment manufacturer. They do not lack the technical expertise needed, and their well-established brand makes them the go-to place for a beginner or even a professional. However, as an investment, the problem with Nvidia is its valuation, and you ought to take a look at that before making any decisions. They have a price-to-sales ratio of 25, which is very high and expose them to quite the downside risk, at least in the short term.
+
+Extreme Networks
+Correlation to cryptos: Low
+
+Potential benefit from cryptos: Good
+
+Extreme Networks is an American networking solutions provider. They manufacture wireless and wired networking solutions and offer cloud-based end-to-end solutions. The company lacks any news related directly to the crypto industry, but their core business with networking and cloud makes them a perfect benefactor of digital assets.
+
+Nowadays, paying with cash can be quite odd for many and in some places, they don’t even accept cash. Therefore all stores need a reliable internet connection for their business to operate. This need will further increase when we transit fiat to digital assets like Bitcoin. It can be troublesome to buy with Bitcoin if you can’t enter your Paypal or Square cash app.
+
+Praying For Gains
+Although you did all your research a little praying for those gains never hurts. 
+Therefore, investing in a well-situated company for an increasing transition to the cloud might not be a bad idea. However, extreme Networks is a relatively small company with a market cap of only $1.2 billion and can therefore be a bit risky. If you want to look for some more prominent and maybe more stable companies, you could turn your head to Scandinavia, where there is Nokia and Ericsson, who compete with Huawei in manufacturing the underlying infrastructure for networks (5G).
+
+Conclusion
+As you can see, many companies might benefit from cryptocurrencies and digital assets. It is safe to say that at least some of them will be huge contributors to this transformation. There are also many more companies from different industries that could have been included in this list, for example, Norton Lifelock, a cybersecurity company that now offers you a way to mine cryptos more safely. I also didn't include Coinbase and Microstrategy in this list since I covered them quite in-depth in the earlier parts of this article. However, I would rate them both High (Microstrategy almost equal to BTC) and Great for their correlation and potential, respectively.
+
+The benefit you get to your portfolio from diversifying your crypto holdings into the equity markets might make you sleep better at night. It is worth considering whether you believe we will see something other than blockchains in the future and then look for companies you like and see if they are well positioned - or have already- to transform alongside our digitalised world. If you are only looking to make some gains with trading, then I suggest you take time to learn how to analyse a company's fundamentals and learn how to tell if a company's intrinsic value is higher than its market cap.
+
+Then lastly, I would like to point out that in addition to Coinbase's IPO, other crypto-related companies are looking to go public. The first one that comes to mind is, of course, the UDSC issuer Circle. Circle can be quite risky since we do not know what regulations they are planning on implementing for stablecoins. Still, all in all, it is a good idea to keep your eyes open for new IPOs.Trading is perhaps one of the most promoted ways to make money in financial markets, especially the crypto market. On social media, you see “experts” promoting their courses and guaranteeing at least 20% profits every day. Trading is also viewed as something cool, largely due to the videos of these same experts claiming ownership of “Lambos” and the like.
+
+The real truth is that trading involves tremendous risks and no one can honestly guarantee you any gains. Therefore before you even think about starting you should be aware of what trading involves and how you can try to minimise your risk.
+
+If you were to ask someone how you should trade, the obvious answer they would give is to buy at the bottom and sell at the top. This sounds fairly simple and, yes if you could succeed in always finding the bottoms and tops then naturally you would make a ton of money.
+
+However, trying to find these tops and bottoms is not as easy as it sounds, which makes trading extremely risky, especially day trading. This is why many do swing trading. In swing trading, the time you keep an asset can vary from a week to even a few months. Swing trading often stems from analysing trends in a certain asset, which results in deliberately entering a rising market rather than trying to find a bottom.
+
+Crypto Categories
+In almost everything around you there are trends. Maybe the best example would be fashion. In fashion, we divide everything into different categories, like pants, shirts, hoodies, and skirts. For these larger categories, we have subcategories and we also have different brands which compete to be the best in these categories.
+
+This same structure can be found in crypto markets. There are a few different ways of looking at what the main categories are, but one particularly good video about this is by our very own Guy. In that video you’ll learn about stores of value, smart contracts, oracles, payment, privacy, exchanges, and meme cryptocurrencies. On top of these, we have smaller categories that can somewhat fit into one of these bigger ones. We have sub-categories like NFT-focused cryptocurrencies and gaming cryptocurrencies.
+
+Different Cryptos Chart
+Crypto markets tend to move in the same direction, but the amount a certain crypto moves can largely depend on its category. 
+It’s good to know we have these different categories since they tend to pump and dump at different times which means there’s always a chance to trend trade on something that is currently pumping. For example, NFT related coins and tokens tend to rally together and the same is true for the class of DeFi tokens.
+
+Of course it can be tough to pick the winner from the entire NFT space, so you might be more interested in analysing and trading only a specific cryptocurrency. Even if that is the case, you should be aware of these different categories and how they tend to move together since even if you find a crypto that seems perfect, it might not pump if interest in that particular category is low. The key is to understand that trends come in different strengths and lengths, and that they can be for a specific cryptocurrency or for the broader markets.
+
+Profits
+To keep your interest level high, let’s move on to the fun part, profits. Many would think that since you’re not looking to enter at the bottom, nor sell at the top, that you won’t make as much profit as you would from day trading or any other trading for that matter. Well, that’s not actually the case.
+
+First of all, before even talking about profits we should look at risk. In trend trading, you are jumping on an asset that is already moving upwards and if nothing special happens then it ought to continue to move upwards. When trying to find a bottom you are jumping on a downwards movement and hoping that something will happen which would turn the price around. Just from these simple examples, you should see that in a basic sense trend trading is less risky than trying to find the bottom.
+
+Risk Low
+It's not just about how much you can make, you shall also consider how much you might lose 
+To see the power of trend trading first hand we can use Axie Infinity as an example since it has moved massively in recent months. To better understand the prices and days I’m about to refer to I suggest you open TradingView in another tab and search for Axie Infinity’s price chart (use 4 hour candles).
+
+As Axie Infinity starts moving up at the end of June you as a swing trader start looking at it. You can clearly see how the volumes continuously rise while Axie forms higher lows. Let’s now assume that on July 9th you have confirmed there is an upwards movement and you enter the market at roughly $15.
+
+Axie Infinity Trading Chart
+Image via TradingView 
+Then on July 16th, you decide to sell at roughly $20 since the price went below an upwards moving trend line of previous lows. In just one week you secured a gain of 33 %! Not bad from someone who didn’t even buy at the bottom, nor sell at the top.
+
+We could also have kept Axie Infinity in hopes that the uptrend is still intact and just experiencing some shorter-term downwards pressure. If you did that you would currently be sitting on an unrealised gain of 180%. Yes, that is impressive. However, we could have secured even bigger gains thanks to the fact that we sold.
+
+Because in this example we sold our holdings at $20, but then we decided to enter again on July 21st at roughly $19 when the price broke out of a downward moving wedge. Then we would have sold at roughly $38 on July 26th when price broke below the uptrend. This would have made us about 100%. With quick maths investing $1000 in the beginning and using the profits from the first trade we would have turned that initial investment into $2600. Not bad.
+
+Trading Money
+$1600 in a couple of weeks, I wouldn't mind that 
+As clearly seen from this example, buying at the bottom and selling at the top is unnecessary. Naturally, the closer to the bottom you can buy the more you will profit, assuming you sell at a good price. However, you need to give time for a trend to form, otherwise, you’re just gambling on something that may or may not happen. We want to be traders, not gamblers.
+
+Now, to make a trade similar to the Axie Infinity one we need to look at some ways to analyse a trend.
+
+Methods for Analysing Assets
+In the example above all the trading we hypothetically made was based on the most basic technical analysis there is. In a real situation, it would be wise to combine some other forms of analysis like trader sentiment and fundamental analysis.
+
+Even if you only want to use technical analysis I suggest you conduct a slightly more thorough analysis using some other indicators, like Bollinger bands and Fibonacci retracements. Also, the Axie Infinity chart formed a textbook bullish flag which if you were an experienced trader you could have spotted. In this article though we will assume that you like to do as much analysis as possible and therefore we will start with fundamental analysis.
+
+Fundamental Analysis
+If you are someone who doesn’t feel confident investing money in projects simply by looking at a chart and some patterns, then fundamental analysis might be the tool for you. In more traditional assets like stocks, it’s much easier to do fundamental analysis since companies are centralized and release quarterly earnings. Because cryptos don’t have these we need to look at the broader picture and for example, analyse a currency's user base or use cases
+
+Fundamental Analysis
+In fundamental analysis you have to analyse the underlying project and not just its price actions 
+Let's start by using Chiliz, which is the founder of the fan engagement platform Socios.com, as an example. First, you need to complete a quick overview of the cryptocurrency in question. Look at what they do, their market cap, the trading volume of their coin. Visit their website, and maybe even read their whitepaper.
+
+Explaining all the analysis steps here would take too much time, so I suggest you watch this Coin Bureau video if you don’t know how to do this fundamental analysis. Yes, analysing this much for your trading might feel overwhelming but this analysis can help discover the best coins and decrease the risk of any unexpected downturns. Additionally, the trend you’re entering might be stronger if there truly are people who believe in the project entering and not just traders.
+
+After doing the basic analysis if you feel confident that the project is good, now you need to look at when the price might start pumping, or if it already is. To do some trend analysis you could start by analysing how many users the platform has gained and see whether it is gaining popularity. This is often referred to as on-chain analysis and it’s extremely good to analyse as many factors as possible. One of the most popular tools for this is Glassnode.
+
+Another piece of fundamental analysis would be to look for news about any major partnerships. If you find both an increasing use of the platform and a good amount of positive news coming out then that’s great!
+
+Axie Infinty Trading Chart Volumes
+Volumes can be found at the bottom. Image via TradingView 
+However, a small upwards move doesn’t matter because as already mentioned multiple times, we are not looking for the bottom but rather to get onboard in an already established trend. In this example, let’s say the price has moved up for a couple of days and the volumes continue to rise steadily while positive news just keeps flowing. Should you enter? Yes, now you could enter if you feel confident that you have spotted an upwards trend. However, if you want further proof of an uptrend you could try some sentiment analysis.
+
+Sentiment Analysis
+With sentiment analysis there are two, or maybe three especially important things to analyse. First, it would be good to analyse practically the whole world's view towards risky assets and different financial markets in general. This is called risk appetite. You’ll have to do this since it can be hard to find any winners if you happen to buy in the middle of a crash similar to the Covid one last spring.
+
+The next thing to analyse is the sentiment around crypto markets. Here you can take the results with a grain of salt since many people view Bitcoin and the whole crypto markets as one asset. The fact is that even when Bitcoin and other large currencies are moving downwards you can still find winners, especially from small and medium cap coins. The last analysis to do is about the specific cryptocurrency you plan to trade.
+
+Now for those who have no idea how to do sentiment analysis here are a few tips. Sentiment analysis is done to find out what the mood around a certain thing or topic is. One useful tool to analyse the overall sentiment is the fear and greed index. You canlook at the fear and greed index for stocks to see how people view the most common type of investing, and then you can look at the Bitcoin fear and greed index as well.
+
+Cryptomood
+Yes, it costs a couple of dollars, but it might be worth the investment if you start trend trading. Image via CryptoMood. 
+After looking at those two you could use one of the most popular crypto sentiment analysis tools called CryptoMood. This tool creates an overview of the mood around a certain cryptocurrency by analysing news, social media, and whale movements. Keep in mind though that to use CryptoMood for any coins other than Bitcoin you will need to pay about $5 a month. For more tips about sentiment analysis you can again turn to Coin Bureau’s Youtube channel and watch this video.
+
+Now you have analysed both the fundamentals and the sentiment around a cryptocurrency. Next, you should move on to some technical analysis, just to be sure that you’ve picked a real winner.
+
+Technical Analysis
+For a beginner, we now enter perhaps the hardest type of analysis of them all. When conducting fundamental analysis, or sentiment analysis, you can go a long way with basic intelligence. You only need to analyse the facts you are given by the numerous tools available.
+
+In technical analysis (TA) you have to be a bit more experienced to find patterns before they have formed. Technical analysis is often as much an art form as it is a science. Therefore you shouldn’t expect tremendous profits when you first start with technical analysis, since even most experts struggle to be profitable.
+
+However, we now have a good basis to start doing technical analysis because we’ve already conducted both fundamental analysis along with sentiment analysis and from there decided that this certain crypto will likely go up. We just need to make sure that there aren’t any bearish TA patterns forming, and we can also use TA to try and find the optimal entry price for us.
+
+Technical Analysis
+TA might feel intimidating, but it doesn't have to be as complicated as this picture. Stick to what you find works. 
+Let’s keep things simple and begin our look at technical analysis with a few basic things. When you look at traders on Youtube, or other platforms, you probably see that they use charts with many red and green candles that show the price action.
+
+Sometimes these candles show the minute by minute or even tick by tick movements of price.. This is something we don’t want. When doing trend trading we want to keep one candle representing one day, also called daily candles. Candles of four hours can also work well and I like to use that, especially when analysing shorter time frames.
+
+A good thing to keep in mind when using different time variables, which you will notice and maybe get frustrated with, is that many of your found TA patterns will get tossed in the trash once you change the time frame. It is quite possible that a daily chart will show an uptrend, the four hour chart will show a downtrend, and the minute chart will show an uptrend. Because of this it is good to stick with one timeframe, either with the daily or four-hour candles.
+
+Next, you could start with one simple line. Draw a line using all the previous lows similar to the one I used in the Axie Infinity chart. Is that line moving up? If yes, great! Now look at the current price and see if it’s moving closer to that line or further away.
+
+If the price is moving towards your line it might be time to enter soon. The optimal time to enter would be when the price hits your line, but since we rather wait for a safe upwards movement you can test your line once and see if the price starts moving up from there. If it does then it might be time to enter.
+
+Analysing Chart
+Wait for the right entry point 
+However, we haven’t yet looked if any longer-term bearish patterns are forming like a death cross, head and shoulders, Wyckoff distribution, bearish flag, or something other formation traditionally considered as bearish.. I’m not going to explain all of these, therefore if you didn’t understand these terms then I suggest starting by watching this Coin Bureau video. It will give you a great understanding of these technical analysis terms and much more.
+
+If you spot some of these bearish patterns it might be good to consider whether entering is worth it or not. You could enter for a shorter period of time and see if you can profit from that, and in the best case scenario, the bearish pattern you saw beginning won’t fully form at all. Nevertheless, you should be aware of the increased risk if a bearish pattern is looming just around the corner.
+
+Buy Chart
+Finally, it's time to buy. 
+All together, you have now used three different ways to analyse a trend. If after these analyses your trend still seems intact and you feel confident about this particular crypto then you should enter. Although I do suggest you learn to use more advanced TA than what I just demonstrated, since one line might not show the whole picture.
+
+Low Risk - High Reward
+As I mentioned numerous times it can be risky to engage in trading. Therefore you ought not expect tremendous gains in the beginning, and you should even be prepared to lose some money. I would also not encourage you to quit your job for trading, but rather view it as a hobby that can potentially make you some money.
+
+Understandably, you might have high expectations and the part where you lose money in order to learn doesn’t entice you. That is why you should work on minimising your risk while maximising your gains.
+
+Risk Management
+First of all, trend trading itself can be thought of as lower risk than day trading. So you’re already reducing your risk profile. We have also looked at three different ways of analysing a potentially trending crypto which also lowers the risk substantially. It’s highly unlikely that you lose a lot of money on something where all three analyses look positive, although there is that possibility.
+
+That is why you might want to use stop losses. Essentially you put an order to sell your holdings if they drop below a certain price level. This price level could be best to determine from TA. One example of a good stop loss level is when the price drops below your support line.
+
+Stop Loss
+Don't be afraid to take your losses.
+Another way to minimise your risk is to buy a long-term winner. Yes, in this article we should be focused on trend trading for a shorter amount of time, but hear me out. If you believe in a crypto like Ethereum, then why not just enter and HODL. If you believe that Ethereum will be bigger in 10 years than it is now then enter that upwards trend and HODL.
+
+Okay, that’s not trading anymore, it’s investing, but the point is that even when trading for shorter periods it can be wise to buy great cryptocurrencies which you might consider keeping. This can be especially good in the beginning, since if you enter a crypto and it goes down you might not be tempted to sell and take the loss, but rather wait for it to bounce back up. This is more likely to happen in a crypto with strong fundamentals and already a great use case and adoption rather than in some meme coin.
+
+Also, try to diversify your trading into trends with different lengths and strengths. One trend might be a long one based on institutional adoption, which doesn’t happen in one week but rather over months, and another might be based on some potential partnership and maybe good TA patterns forming, which might cause an upwards trend of perhaps a few weeks.
+
+Increasing Rewards
+Practice, practice, and then more practice. As for anything in this world you need to practice to get good. One way to start is to use trading simulators where you trade with fake money. This might sound dull to some, so another option would be to start trading with a fraction of the amount you initially planned to trade with.
+
+The important thing isn’t the dollar amount you make but rather the percentage amount you make. When you use only small amounts you can make a larger number of trades and see which ones worked. From there you try to distinguish which factors made them work and once you find the winning pattern you can start increasing the dollar amount.
+
+Practice Practice
+Practice, practice, practice 
+Those who feel extremely confident could try leveraged tokens which move x amounts more than the actual coin. For example, if you buy a bull Bitcoin token with 3x leverage, then if Bitcoin goes up 1% your token will go up 3%. Keep in mind though that this works both ways and you will lose a lot more if the price goes down.
+
+Thus if you use this you need to understand your risk level rises substantially. Still, I believe this is a much better way to trade than with actual leverage since although the token can go down a lot in one day it’s still your own money you lose rather than borrowed money.
+
+One more thing I almost forgot to mention is; don’t get greedy. Not only should you use stop losses but you should also be ready to sell at any time. If you do your technical analysis and spot a potential upcoming top, or see that we already might have been to the top, analyse the patterns again and come up with a selling price. If you believe that a top will form at say $10 then you might put your sell order at $9.50, to avoid getting dragged into the potential pullback at $10.
+
+This will often happen since many who are doing TA will spot that same top at $10 which is why you want to guarantee your gains and leave a bit earlier. Yes, you might not sell at the top and the price can continue to rise, but assuming you entered at a good price then those last few percentages won’t matter much anyway.
+
+Conclusion
+Hopefully, this article gave you a good view of trend trading since this is something many could do and earn some good profits. It works well to allocate a certain amount of your portfolio for trend trading since the diversification will help minimize your risks. Keep in mind though that the best strategy, according to numerous studies, is to HODL, which makes it important for you to separate your long-term holdings from your trading capital.
+
+When starting out, remember not to rush into anything. You shouldn't be in a hurry to enter something just because it has moved up a couple of days. Simply take your time and use all the different ways of analysis. Only with good analysis can you truly minimise your risk. You can also take help from others to analyse a certain cryptocurrency. Nowadays there are many talented people on Youtube and you can use their content to see how their analysis compares to yours, but be aware of scammers since there are a lot of those too.
+
+Furthermore, don't get greedy. Even a compounded 5% per month would be excellent. That would turn your $1000 into almost $1800 in a year. Also, don’t be afraid to take losses. Sometimes you win, sometimes you lose, that’s just how it is. And remember, as the saying goes, practice makes perfect

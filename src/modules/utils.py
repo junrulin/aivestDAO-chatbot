@@ -88,16 +88,15 @@ class Utilities:
         Sets up the chatbot with the uploaded file, model, and temperature
         """
         embeds = Embedder()
-        with open('./static/胡子观币.txt','rb') as f:
-            ff=f.read()
 
         with st.spinner("Processing..."):
             # uploaded_file.seek(0)
             # TODO: 
-            # file = uploaded_file.read()
+            file = uploaded_file.read()
             # Get the document embeddings for the uploaded file
-            # vectors = embeds.getDocEmbeds(file, file.name)
-            vectors = embeds.getDocEmbeds(ff, '胡子观币.txt')
+            fileName = os.path.basename(uploaded_file.name)
+            vectors = embeds.getDocEmbeds(file, fileName)
+            # vectors = embeds.getDocEmbeds(ff, '胡子观币.txt')
 
             # Create a Chatbot instance with the specified model and temperature
             chatbot = Chatbot(model, temperature,vectors)
