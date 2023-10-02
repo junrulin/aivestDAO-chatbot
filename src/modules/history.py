@@ -19,7 +19,7 @@ class ChatHistory:
 
     def initialize_assistant_history(self, uploaded_file):
         fileName = os.path.basename(uploaded_file.name)
-        st.session_state["assistant"] = [self.default_prompt(fileName)]
+        st.session_state["assistant"] = [self.default_prompt(os.path.splitext(fileName)[0])]
 
     def initialize(self, uploaded_file):
         if "assistant" not in st.session_state:
