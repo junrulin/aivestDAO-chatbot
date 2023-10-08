@@ -36,12 +36,14 @@ layout, sidebar, utils = Layout(), Sidebar(), Utilities()
 layout.show_header("PDF, TXT, CSV")
 
 # user_api_key = utils.load_api_key()
-user_api_key = "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"
+user_api_key = "sk-XgSkVM4ucuNc2n2rDc0e38B3D90544B0Bb32167a565aCe09"
+user_api_base = "https://api.zeroai.link/v1"
 
 if not user_api_key:
     layout.show_api_key_missing()
 else:
     os.environ["OPENAI_API_KEY"] = user_api_key
+    os.environ["OPENAI_API_BASE"] = user_api_base
 
     # uploaded_file = utils.handle_upload(["pdf", "txt", "csv"])
 
