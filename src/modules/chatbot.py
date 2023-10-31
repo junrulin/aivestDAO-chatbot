@@ -41,7 +41,6 @@ class Chatbot:
 
         qa_template = """
         Using the chatgpt to answer the question if no relavant context is found
-        Please identify ind include the relavant URL in the context at the end if relavant context is found.
         Include the sentence "Disclaimer: The crypto market is risky, investing should be approached cautiously" with a new line at the end if and only if the question is related to investment.
         context: {context}
         crypto_real_time:{crypto_real_time}
