@@ -54,7 +54,7 @@ else:
     # Initialize chat history
     history = ChatHistory()
     try:
-        with open('./static/David Hoffman.txt','rb') as f:
+        with open('./static/Bankless.txt','rb') as f:
             uploaded_file = f
             chatbot = utils.setup_chatbot(
                         # uploaded_file, st.session_state["model"], st.session_state["temperature"]
