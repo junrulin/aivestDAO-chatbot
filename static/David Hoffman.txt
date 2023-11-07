@@ -1,0 +1,64 @@
+When Satoshi Nakamoto released the Bitcoin whitepaper to the world, he triggered a cultural revolution of enthusiasts, that began to question what Money is, how things come to be considered Money, and what the qualities are that make good and bad Money.
+ Everyone alive today is familiar with the kind of money produced by central bank.
+ money is the product of Central Banks. The supply of fiat money can be restricted, or inflated, by the decision of the members of the central bank.
+ The ability to control the supply of money presents a poor alignment of incentives between the Central Bank and the people holding its currency. When a Central Bank lowers interest rates to 0, its member banks (Wells Fargo, Bank of America, etc) are able to credit lenders with loans, at 0 costs to them. This effectively inflates the supply of money, as the creation of a loan is effectively free for these banks. When a Central Bank enables the creation of new money, they are devaluing the currency held by everyone else. This largely negatively impacts the poor, who are more likely hold cash, and positively impact the rich, who are more likely to own real-estate, stocks, securities, or other assets that are generally immune from currency devaluation.
+ Over the past century, the world has seen this incentive misalignment play out numerous
+ times. Enough evidence for people to make the claim that
+ Bitcoin, and it鈥檚 21,000,000 finite supply, represents a simple and viable solution to create
+ . By having finite supply, Bitcoin claims to provide people who own BTC the peace of mind that their currency will never be diluted, and therefore always worth something.
+ People like Bitcoin because it accurately reflects a tried-and-true money system: Gold. This fit well with libertarian-types, that often criticized the Federal Reserve even before Bitcoin was a thing. They claim that Bitcoin is able to provide a new money system that subverts the Federal Reserve; by allowing people to pick between the US Dollar and Bitcoin as their preferred method of storing their wealth. They claim that Bitcoin鈥檚
+ supply will provide the incentive for the average person to store their wealth in Bitcoin, in order to not be
+ , year over year.
+ Through smart-contracts on Ethereum, it is possible to keep the same central bank architecture, but by loosing misaligned incentives.
+ MakerDAO has built a (de)central bank on Ethereum, and has enabled its governance to be distributed to a network of token holders. The MKR token is available on the secondary market, meaning that anyone can join the governance system by purchasing the token and attending governance meetings.
+ All DAI issued has a minimum of 150% its value backing it. DAI represents a credit of Ether, owed to the bearers of a CDP. Like Bitcoin, this creates
+ y, but it has the additional benefit of governance by the MakerDAO.
+ By decentralizing the central bank model to all MKR holders, MakerDAO can do all the good things that central banks can, and less of the bad ones. Some of the valuable tasks that a central bank is able to do is:
+ MakerDAO is built to offer services to a number of different types of consumers.
+ The primary service that MakerDAO provides is stability. MakerDAO provides stability through the DAI stablecoin. DAI is promised to hold it鈥檚 peg until the very end of MakerDAO鈥檚 life. The value of DAI is propped up by numerous lines of defense, and only when they all fail will the value of DAI fall into question.
+ As of Dec 1, 2018, the value of all DAI is $60 Million, which is backed by $165 Million worth of Ether. If the $165 Million of Ether rapidly drops, and CDP holders fail to re-collateralize in time, then the MakerDAO system turns to the $270 Million valuation of the MKR token, and mints enough MKR tokens to be sold for DAI in order to become sufficiently collateralized again.
+ Therefore, transactors can rest assured that DAI will be able to hold it鈥檚 value, less both lines of defense fall to a black swan event.
+ Adoption and demand for DAI helps the MakerDAO network. With more demand for DAI, comes stronger assurances of the support of DAI鈥檚 value. When demand for DAI increases, DAI can appreciate to above $1.00. When this happens, people are more incentivized to lock ETH in a CDP to issue more DAI, as DAI has become more valuable. The issuing of new DAI increases the supply, to compensate for the increase in price, and returns the value of DAI to $1.00.
+ MakerDAO, first and foremost, is a
+ You can deposit your ETH into an account that only you control. It鈥檚 just like having your ETH in your own Ethereum wallet, but this one allows you to
+ I fully expect a large population of people to hold their ETH in MakerDAO, regardless of whether having an open CDP or not.
+ Why? Doing this allows someone to fluidly enter and exit from a CDP. Having ETH in MakerDAO can allow someone to instantly mint new DAI, and send them anywhere for payment. It鈥檚 like an ETH-Backed credit card.
+ Future product idea: A MakerDAO credit-card that automatically withdraws DAI from your MakerDAO account, by minting new DAI against one鈥檚 deposited ETH. Connect Venmo, the Cash App, or any other money transfer app, and send DAI to someone else MakerDAO account, to repay them for beer money!
+ Don鈥檛 spend too much without repaying though! That鈥檚 irresponsible and risky ;)
+ MakerDAO is creating a new system that lets you earn interest on the DAI you keep in the MakerDAO bank.
+ From MakerDAO鈥檚 article
+ Sound familiar? It鈥檚 a savings account! With the average savings account from a tradition bank offering 0.06%, MakerDAO offers a much more financially enticing savings account, compared to what is available to the average consumer.
+ Using all your deposited value, be it ETH, DGX, OMG, or any other future token approved by the MKR voters, you will be able to withdraw a fully-collateralized, low-interest (currently 2.5%) loan.
+ No one can deny you, no one can stop you. You don鈥檛 need an ID, proof of residency, or any other identifying features. If you have ETH (DGX, OMG etc), you are approved.
+ This is the heart of the MakerDAO system. All DAI in circulation (~60 Million) came from people receiving a loan from MakerDAO. In the future, these DAI will eventually need to be repurchased by CDP holders in order for them to access their ETH. Or not! They could have the CDP forever, in theory.
+ There is two types of people who are able to take advantage of the not-perfectly-stable DAI. These people are integral to the stability of DAI, as growth in these populations will lead to strength in DAI stability.
+ When DAI drops below $1.00, all CDP holders that have outstanding loans that must be repaid, are able to purchase DAI at a lower price than they were issued. If a CDP holder owes 1,000 DAI, but DAI is trading at .98 to the Dollar, then a CDP holder can repay their loan with just $980.
+ Arbitrageurs can take advantage of this fact. Because arbitrageurs know that $0.98 DAI is attractive to CDP holders, they can also buy DAI, on the speculation that DAI will soon appreciate to $1.00, where they can sell DAI again for a 2% gain.
+ This process works in reverse too.
+ When DAI increases above $1.00, those with deposited ETH are incentivized to issue new DAI. If someone is able to open up a 1,000 DAI CDP, when DAI is trading for $1.02, they are able to mint 2% extra value.
+ Arbitrageurs can take advantage of this fact, by selling their holdings of DAI, as they know that an influx of new DAI into the market is likely.
+ MakerDAO keeps up its solvency by selling risky CDPs to the highest bidder. Through this mechanic, bidders are able to purchase Ether for
+ Bidders are able to fill debts to protect MakerDAO, and purchase discounted Ether at the same time.
+ Looking for a side gig? A hobby? To work for something bigger than yourself?
+ MakerDAO is first and foremost, a DAO. A
+ A DAO depends on a network of participants that have the best interests for the organization at heart. The strength of a DAO can be evaluated by the cohesiveness of it鈥檚 community, its ability to converse and debate, and it鈥檚 effectiveness in implementing
+ changes and upgrades to the system.
+ By purchasing and voting with MKR, you are taking on a responsibility to uphold the health of the system. It鈥檚
+ job to protect the value of DAI. It鈥檚
+ job to reduce systemic risk in CDP holders. It鈥檚
+ job that accurate data and information about MakerDAO is effectively communicated between the MakerDAO community and it鈥檚 consumers.
+ You get paid for this! Through good decision-making, effective governance, and promotion of the MakerDAO system, the MKR token is designed to appreciate! Thanks to
+ hard work, smart choices, and advertising, MakerDAO will return value to the MKR token. The more CDPs that are opened, through effective communication and integration of the MakerDAO system, the more MKR will be burned. The more MKR that is burned, the more valuable
+ MKR is.
+ MakerDAO wants
+ to join the governance of the decentralized bank of Ethereum.
+ I have written
+ about MakerDAO. I鈥檓 quite proud of it all. Check it out here!
+ A comparison of how MakerDAO was able to extract different qualities of Bitcoin, and place them exclusively in one of its two tokens, DAI and MKR.
+ If (鈥when) crypto enters a bull market, and Ether price appreciates, CDP holders will have to option to generate more DAI. I claim the most likely thing they are going to do is purchase more Ether, causing a feedback loop.
+ There is a link between the volatility of cryptocurrency prices, and the rate at which MKR gets burned. The more volatile the prices, the more MKR is burned. This should help as a large buffer for absorbing price shocks in the long term
+ Subscribe to
+ . $12 per mo. Includes
+ ,
+ &
+ 
