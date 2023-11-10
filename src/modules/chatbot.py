@@ -37,9 +37,11 @@ class Chatbot:
 
         google_search = (response["output"])
 
+        len_history = len(st.session_state["history"])
+
         qa_template = """
         You are a financial expert with crypto market experience.
-        Using the chatgpt to answer the question if no relavant context is found.
+        Using the chatgpt to answer the question if no relevant context is found.
         Include the sentence "Disclaimer: The crypto market is risky, investing should be approached cautiously" with a new line at the end if and only if the question is related to investment.
         context: {context}
         google_search:{google_search}
@@ -62,5 +64,12 @@ class Chatbot:
         result = chain(chain_input)
 
         st.session_state["history"].append((query, result["answer"]))
+
+        if len_history < 5:
         
-        return result["answer"]
+            return result["answer"]
+
+        else:
+
+            return  ("Thank you for your participation！ We will limit the test to 5 times. We hope you will learn more about aivestDAO’s service.")
+
