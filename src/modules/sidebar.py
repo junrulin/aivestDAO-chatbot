@@ -2,7 +2,7 @@ import streamlit as st
 
 class Sidebar:
 
-    MODEL_OPTIONS = ["gpt-4", "gpt-3.5-turbo"]
+    MODEL_OPTIONS = ["gpt-4-1106-preview", "gpt-3.5-turbo"]
     TEMPERATURE_MIN_VALUE = 0.0
     TEMPERATURE_MAX_VALUE = 1.0
     TEMPERATURE_DEFAULT_VALUE = 0.0
