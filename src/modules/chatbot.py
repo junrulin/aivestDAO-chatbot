@@ -27,10 +27,10 @@ class Chatbot:
         Start a conversational chat with a model via Langchain
         """
         #get google search api data
-        '''
+
         llm = OpenAI(temperature=0.7)
 
-        os.environ["SERPAPI_API_KEY"] = "fe1234c85a82ac23156439b6d5a1fc665922cf40e632882b9bae8a13360dda9c"
+        os.environ["SERPAPI_API_KEY"] = "2ba14a9d39bf05603e5c691ae8100bea686de68c15fdc8589d1f27eb87afa6ee"
        
         tools = load_tools(["serpapi"], llm=llm)
 
@@ -39,8 +39,7 @@ class Chatbot:
         response = agent({"input": query})
 
         google_search = (response["output"])
-        '''
-        google_search = '1'
+
 
         # collect crypto data in real time from tradeview
         cs = tvs.CryptoScreener()
@@ -58,6 +57,7 @@ class Chatbot:
         qa_template = """
         You are a financial expert with crypto market experience.
         Using the chatgpt to answer the question if no relevant context is found.
+        If output is table, only choose 5 records or less from all data. 
         Include the sentence "Disclaimer: The crypto market is risky, investing should be approached cautiously" with a new line at the end if and only if the question is related to investment.
         context: {context}
         google_search:{google_search}
