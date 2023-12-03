@@ -30,7 +30,7 @@ class Chatbot:
 
         llm = OpenAI(temperature=0.7)
 
-        os.environ["SERPAPI_API_KEY"] = "2ba14a9d39bf05603e5c691ae8100bea686de68c15fdc8589d1f27eb87afa6ee"
+        os.environ["SERPAPI_API_KEY"] = "418f6605e3f7daf210ab8901f0c057443aacf6d4000833d2766c3dda6bdb2f4e"
        
         tools = load_tools(["serpapi"], llm=llm)
 
