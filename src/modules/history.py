@@ -12,7 +12,7 @@ class ChatHistory:
         return "Hey aivestDAO ! 👋"
 
     def default_prompt(self, topic):
-        return f"Hello ! I'm {topic} 🤗"
+        return f"Hello ! Please enter your wallet address for the analysis and recommendation 🤗"
 
     def initialize_user_history(self):
         st.session_state["user"] = [self.default_greeting()]

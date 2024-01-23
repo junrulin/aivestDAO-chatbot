@@ -43,7 +43,7 @@ else:
 
     uploaded_file = utils.handle_upload(["pdf", "txt", "csv"])
 
-    if upload ed_file:
+    if uploaded_file:
 
         # Configure the sidebar
         sidebar.show_options()
