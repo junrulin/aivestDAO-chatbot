@@ -179,8 +179,8 @@ class Chatbot:
             price_min = df.min(axis=0)
             price_max = df.max(axis=0)
             max_drawdown = 1 - price_min / price_max
-            df = pd.concat([weights, latest_prices, latest_market_cap, mu / 12, max_drawdown], axis=1)
-            df.columns = ['Weight', 'Latest_Price', 'Latest_Market_Cap', 'Monthly_Return', 'Max_Drawdown']
+            df = pd.concat([pd.Series(df.columns), weights, latest_prices, latest_market_cap, mu / 12, max_drawdown], axis=1)
+            df.columns = ['Symbol', 'Weight', 'Latest_Price', 'Latest_Market_Cap', 'Monthly_Return', 'Max_Drawdown']
             pd.set_option("display.precision", 3)
             df = df.loc[(df['Weight'] >= 0.01)]
             portfolio_max_drawdown = (df['Weight']*df['Max_Drawdown']).sum()
