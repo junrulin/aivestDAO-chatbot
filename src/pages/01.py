@@ -2,6 +2,7 @@ import os
 import time
 import streamlit as st
 from tinydb import TinyDB
+from streamlit_feedback import streamlit_feedback
 from modules.history import ChatHistory
 from modules.layout import Layout
 from modules.utils import Utilities
@@ -99,6 +100,10 @@ else:
                     assistant_message = {"role": "assistant", "content": output}
                     chat_history.append(assistant_message)
                     db.insert(assistant_message)
+                    feedback = streamlit_feedback(
+                            feedback_type="thumbs",
+                            optional_text_label="[Optional] Please provide an explanation",
+                    )
 
         if len(db.all()) > 0:
                     # Show button if Chat history not empty
