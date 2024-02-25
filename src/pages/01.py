@@ -44,7 +44,7 @@ layout.show_header("PDF, TXT, CSV")
 
 # user_api_key = utils.load_api_key()
 user_api_key = "sk-XgSkVM4ucuNc2n2rDc0e38B3D90544B0Bb32167a565aCe09"
-user_api_base = "https://api2.zeroai.link/v1"
+user_api_base = "https://api.zeroai.link/v1"
 
 if not user_api_key:
     layout.show_api_key_missing()
