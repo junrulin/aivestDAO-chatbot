@@ -111,6 +111,7 @@ else:
                     db.insert(assistant_message)
                     feedback = streamlit_feedback(
                             feedback_type="thumbs"
+
                     )
 
         if len(db.all()) > 0:
