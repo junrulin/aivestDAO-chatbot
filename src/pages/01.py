@@ -7,6 +7,15 @@ from modules.history import ChatHistory
 from modules.layout import Layout
 from modules.utils import Utilities
 from modules.sidebar import Sidebar
+from streamlit.components.v1 import html
+
+def open_page(url):
+    open_script= """
+        <script type="text/javascript">
+            window.open('%s', '_blank').focus();
+        </script>
+    """ % (url)
+    html(open_script)
 
 
 #To be able to update the changes made to modules in localhost (press r)
@@ -101,8 +110,8 @@ else:
                     chat_history.append(assistant_message)
                     db.insert(assistant_message)
                     feedback = streamlit_feedback(
-                            feedback_type="thumbs",
-                            optional_text_label="[Optional] Please provide an explanation",
+                            feedback_type="thumbs"
+
                     )
 
         if len(db.all()) > 0:
