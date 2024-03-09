@@ -2,10 +2,20 @@ import os
 import time
 import streamlit as st
 from tinydb import TinyDB
+from streamlit_feedback import streamlit_feedback
 from modules.history import ChatHistory
 from modules.layout import Layout
 from modules.utils import Utilities
 from modules.sidebar import Sidebar
+from streamlit.components.v1 import html
+
+def open_page(url):
+    open_script= """
+        <script type="text/javascript">
+            window.open('%s', '_blank').focus();
+        </script>
+    """ % (url)
+    html(open_script)
 
 
 #To be able to update the changes made to modules in localhost (press r)
@@ -99,6 +109,9 @@ else:
                     assistant_message = {"role": "assistant", "content": output}
                     chat_history.append(assistant_message)
                     db.insert(assistant_message)
+                    feedback = streamlit_feedback(
+                            feedback_type="thumbs"
+                    )
 
         if len(db.all()) > 0:
                     # Show button if Chat history not empty
