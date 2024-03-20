@@ -60,13 +60,6 @@ class Chatbot:
 
              #   st.write(data_history)
 
-                if not data_history:
-
-                    st.markdown('Your wallet address does not have any transaction history recently,  please try with another one.')
-
-                    return (
-                        'Your wallet address does not have any transaction history recently,  please try with another one.')
-
                 data_sub_history = []
 
                 for x in data_history:
@@ -85,6 +78,13 @@ class Chatbot:
 
        #
               #  st.write(data_sub_history)
+                
+                if not data_sub_history:
+
+                    st.markdown('Your wallet address does not have any transaction history recently,  please try with another one.')
+
+                    return (
+                        'Your wallet address does not have any transaction history recently,  please try with another one.')
 
 
             except:
